@@ -1,0 +1,17 @@
+﻿coluna,tipo,descricao,observacoes_de_tratamento
+id_registro,Identificador textual,Código técnico do registro da janela simulada,Identificar duplicatas idênticas sem expor pessoas
+data_hora,Data e hora,Momento inicial da janela simulada de 10 minutos,Formato ISO AAAA-MM-DD HH:MM:SS
+id_tv,Identificador pseudônimo,Identificador sintético do aparelho em observação,Não é número de série real; alguns registros ausentes
+categoria_conteudo,Categórica nominal,"Tipo genérico de conteúdo visualizado, sem identificação pessoal",Há grafias alternativas e ausências
+minutos_visualizados,Numérica contínua,Minutos de visualização na janela de observação de 10 minutos,Valor válido entre 0 e 10; erros e ausências intencionais
+estado_microfone,Categórica nominal,Ativo indica atividade em ALGUM momento da janela; não significa microfone sempre ligado,Há grafias inconsistentes; não demonstra gravação contínua
+origem_microfone,Categórica nominal,Origem potencial do áudio detectado na simulação,Nao se aplica quando microfone inativo; não é registro real
+classe_som,Categórica nominal,Rótulo genérico de classificação acústica simulada,Não é gravação nem transcrição de conversa
+confianca_classificacao,Numérica de 0 a 1,Confiança do classificador de eventos sonoros sintético,Vazio pode ser legítimo; há valores fora de 0-1 intencionais
+consentimento_coleta,Categórica nominal,Estado fictício de consentimento para coleta/uso de dados,Ausências não significam negativa; não se infere legalidade da transmissão
+modo_privacidade,Categórica nominal,Modo de privacidade representado no cenário fictício,Não garante ausência de tráfego de rede
+trafego_saida_kb,Numérica contínua,Volume estimado de tráfego de saída agregado no intervalo em kB,Tráfego não prova envio de áudio; negativos e picos para investigação
+categoria_telemetria,Categórica nominal,Categoria abstrata de serviço de rede no cenário fictício,Não significa conteúdo efetivamente enviado; grafias inconsistentes
+anuncios_exibidos,Inteiro não negativo,Número de anúncios exibidos na janela,Pode haver anúncios sem consentimento para personalização; negativos inválidos
+interacoes_anuncios,Inteiro não negativo,Quantidade de interações com anúncios exibidos,Não pode exceder anúncios exibidos na mesma janela
+regiao,Categórica nominal,"Macrorregião sintética, não uma localização precisa","Indicador agregado, não identificar usuários"

@@ -1,0 +1,901 @@
+﻿id_registro,data_hora,id_tv,categoria_conteudo,minutos_visualizados,estado_microfone,origem_microfone,classe_som,confianca_classificacao,consentimento_coleta,modo_privacidade,trafego_saida_kb,categoria_telemetria,anuncios_exibidos,interacoes_anuncios,regiao
+R00055,2026-10-06 17:00:00,TV048,Filmes,9.44,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,26.19,Metadados de Eventos,0,0,Sudeste
+R00427,2026-10-07 10:20:00,TV001,Musica,7.73,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,28.07,Telemetria sistema,2,0,Sul
+R00245,2026-09-27 13:10:00,TV019,Series,7.31,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,0,Sul
+R00773,2026-09-13 09:10:00,TV055,Filmes,5.96,Ativo,TV,Choro,0.708,Sim,Desativado,,Publicidade,2,0,Nordeste
+R00347,2026-09-13 06:40:00,TV018,Filmes,9.49,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,39.75,Telemetria sistema,2,2,Sudeste
+R00120,2026-09-12 14:40:00,TV034,Filmes,10.00,Ativo,TV,Voz,0.650,Sim,Ativado,38.96,Publicidade,4,0,Nordeste
+R00264,2026-09-14 16:30:00,TV025,Musica,8.15,Ativo,TV,Silencio,,Sim,Desativado,47.10,Metadados de eventos,2,1,Centro-Oeste
+R00827,2026-09-20 17:30:00,TV013,Musica,7.89,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,20.62,Publicidade,0,0,Sul
+R00346,2026-10-07 03:10:00,TV015,Infantil,9.41,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,47.95,Publicidade,2,0,Norte
+R00182,2026-09-13 10:00:00,TV028,Esportes,4.49,Ativo,Soundbar,Voz,0.561,Sim,Desativado,35.00,Metadados de eventos,4,1,Sul
+R00636,2026-10-04 03:50:00,TV040,Outros,7.39,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,3,0,Centro-Oeste
+R00393,2026-10-01 06:30:00,TV005,Musica,7.60,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,115.69,Publicidade,3,1,Nordeste
+R00189,2026-09-02 00:00:00,TV056,Filmes,1.74,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,35.44,ACR/conteudo,3,1,Centro-Oeste
+R00597,2026-09-01 02:20:00,,Noticias,5.22,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,3,0,Norte
+R00714,2026-09-04 16:00:00,TV007,Esportes,5.95,Ativo,TV,Voz,0.697,Sim,Ativado,45.40,ACR/conteudo,0,0,Sudeste
+R00757,2026-10-10 21:00:00,TV055,Noticias,7.75,Ativo,TV,Latido,0.585,Sim,Desativado,2600.00,ACR/conteudo,2,0,Nordeste
+R00487,2026-09-08 06:30:00,TV028,Esportes,3.41,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,57.46,Metadados de eventos,3,0,Sul
+R00325,2026-09-09 05:10:00,TV003,,2.18,Ativo,TV,Outro,0.725,Sim,Desativado,15.52,Telemetria sistema,1,0,Sul
+R00728,2026-09-08 07:00:00,TV005,Infantil,6.13,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,13.28,Telemetria sistema,3,0,Nordeste
+R00748,2026-09-04 01:40:00,TV059,Series,7.25,Ativo,TV,Choro,0.801,Sim,Desativado,,ACR/conteudo,2,0,Nordeste
+R00602,2026-09-24 18:00:00,TV042,Noticias,4.44,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,41.48,Telemetria sistema,0,0,Sudeste
+R00450,2026-10-07 00:30:00,TV023,Filmes,10.00,Ativo,TV,Latido,0.889,Sim,Desativado,39.24,Publicidade,1,0,Nordeste
+R00637,2026-09-26 01:00:00,TV019,Esportes,10.00,Ativo,TV,Silencio,,Sim,Desativado,10.28,ACR/conteudo,1,1,Sul
+R00621,2026-10-09 08:40:00,TV033,Series,8.60,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,16.31,Publicidade,0,0,Sul
+R00271,2026-09-23 09:20:00,TV055,Outros,9.65,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,3,1,Nordeste
+R00098,2026-09-14 13:40:00,TV044,Noticias,2.64,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,19.76,Telemetria sistema,2,1,Nordeste
+R00050,2026-09-28 12:30:00,TV041,Esportes,5.72,Ativo,TV,Silencio,,Nao,Desativado,18.70,Metadados de eventos,3,0,Sudeste
+R00107,2026-10-10 18:30:00,TV008,Series,3.72,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,54.47,Metadados de eventos,3,0,Sudeste
+R00327,2026-10-09 15:20:00,TV020,Filmes,8.66,Ativo,TV,Silencio,,Sim,Desativado,66.14,Publicidade,3,0,Sudeste
+R00776,2026-09-17 04:20:00,TV047,Series,5.87,Ativo,Soundbar,Voz,0.653,Sim,Desativado,26.40,Metadados de eventos,1,0,Sudeste
+R00091,2026-09-29 06:30:00,TV016,Series,6.97,Ativo,Soundbar,Voz,0.971,Sim,Ativado,0.00,Sem envio observado,1,1,Sudeste
+R00789,2026-09-11 23:20:00,TV047,Series,7.70,Ativo,TV,Ruido,0.658,Sim,Desativado,12.87,Publicidade,2,0,Sudeste
+R00291,2026-09-15 09:40:00,TV052,Noticias,2.11,Ativo,Soundbar,Latido,0.806,Nao,Desativado,13.95,ACR/conteudo,1,1,Sudeste
+R00081,2026-09-07 03:00:00,TV014,Esportes,5.17,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,80.97,Telemetria sistema,2,0,Nordeste
+R00704,2026-09-06 01:30:00,TV053,Noticias,6.01,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,25.14,Publicidade,0,0,Centro-Oeste
+R00054,2026-10-07 18:50:00,TV055,Series,9.40,Ativo,TV,Ruido,0.649,Sim,Desativado,12.46,Metadados de eventos,3,0,Nordeste
+R00034,2026-10-06 20:00:00,TV009,Noticias,5.93,Ativo,TV,Silencio,,Indeterminado,Desativado,80.72,Publicidade,3,0,Sul
+R00106,2026-10-06 12:40:00,TV035,Musica,7.11,Ativo,TV,Latido,0.841,Nao,Ativado,16.68,Metadados de eventos,4,1,Nordeste
+R00147,2026-10-09 00:10:00,TV039,Noticias,9.38,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,35.11,Telemetria sistema,1,1,Sudeste
+R00632,2026-09-19 20:40:00,TV027,Series,3.60,Ativo,TV,Ruido,0.940,Nao,Desativado,13.24,Telemetria sistema,4,0,Nordeste
+R00246,2026-09-20 15:30:00,TV058,Esportes,7.70,Ativo,TV,Silencio,,Nao,Ativado,24.61,Publicidade,4,0,Sul
+R00007,2026-10-09 07:20:00,TV008,Noticias,4.61,Ativo,Soundbar,Latido,0.606,Sim,Desativado,19.30,ACR/conteudo,1,0,Sudeste
+R00579,2026-09-23 02:50:00,TV043,Series,7.86,Ativo,TV,Choro,0.836,Sim,Desativado,19.62,Publicidade,3,0,Sudeste
+R00551,2026-09-26 10:50:00,TV023,Filmes,1.35,Ativo,Dispositivo Bluetooth,Voz,0.746,Sim,Desativado,53.68,Publicidade,3,0,Nordeste
+R00270,2026-09-12 13:20:00,TV008,Outros,7.88,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,34.58,Publicidade,1,1,Sudeste
+R00388,2026-09-11 19:10:00,TV033,Filmes,5.96,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,19.14,Publicidade,2,6,Sul
+R00856,2026-09-19 23:10:00,TV013,Noticias,6.82,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,22.58,Publicidade,0,0,Sul
+R00662,2026-09-21 14:20:00,TV004,Esportes,1.66,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,52.78,Telemetria sistema,1,0,Nordeste
+R00544,2026-09-11 12:50:00,TV008,Filmes,5.42,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,16.69,Metadados de eventos,4,0,Sudeste
+R00410,2026-09-26 20:20:00,TV042,Filmes,9.17,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,19.14,Metadados de Eventos,1,0,Sudeste
+R00373,2026-09-05 20:40:00,TV017,Esportes,-5.04,Ativo,Dispositivo Bluetooth,Latido,0.886,Sim,Ativado,26.95,Publicidade,1,1,Sudeste
+R00243,2026-09-06 23:00:00,TV030,Series,8.32,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,13.41,Publicidade,4,0,Nordeste
+R00845,2026-09-18 19:40:00,TV010,Musica,9.00,Ativo,TV,Voz,0.614,Sim,Desativado,0.00,Sem envio observado,1,0,Sudeste
+R00251,2026-09-23 04:10:00,TV050,Series,7.95,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,22.38,Metadados de eventos,2,0,Norte
+R00208,2026-09-15 04:50:00,TV041,Noticias,6.85,Inativo,Nao se aplica,Nao se aplica,1.150,Nao,Desativado,18.55,ACR/conteudo,1,0,Sudeste
+R00629,2026-09-18 06:00:00,TV042,Musica,10.00,Ativo,Soundbar,Choro,0.955,Sim,Desativado,47.68,ACR/conteudo,3,0,Sudeste
+R00329,2026-10-02 12:00:00,TV037,Esportes,3.12,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,15.94,Telemetria sistema,3,0,Sudeste
+R00510,2026-09-15 01:30:00,TV017,Noticias,7.84,Inativo,Nao se aplica,Nao se aplica,,,Ativado,18.47,Publicidade,3,0,Sudeste
+R00670,2026-10-07 23:10:00,TV038,Esportes,7.54,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,3,0,Nordeste
+R00493,2026-09-27 05:50:00,TV044,Filmes,9.07,Ativo,Soundbar,Silencio,,Nao,Ativado,25.77,Publicidade,2,0,Nordeste
+R00876,2026-10-10 18:40:00,TV037,Musica,5.57,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,26.04,Publicidade,3,0,Sudeste
+R00762,2026-09-10 04:40:00,TV026,Series,7.83,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,0.00,Sem envio observado,2,0,Sudeste
+R00117,2026-09-06 22:50:00,TV029,Esportes,5.46,Ativo,TV,Voz,0.728,Indeterminado,Desativado,9.57,ACR/conteudo,3,0,Sudeste
+R00511,2026-09-21 14:10:00,TV056,Series,5.71,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,12.20,ACR/conteudo,1,1,Centro-Oeste
+R00664,2026-09-28 12:20:00,TV018,Noticias,6.70,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,28.96,Publicidade,2,0,Sudeste
+R00648,2026-09-16 10:40:00,TV030,Esportes,10.00,Ativo,TV,Voz,0.803,Sim,Ativado,36.54,Publicidade,1,0,Nordeste
+R00567,2026-10-10 09:40:00,TV036,Jogos,7.39,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,15.68,Telemetria sistema,2,1,Nordeste
+R00195,2026-09-10 16:00:00,TV018,Noticias,7.86,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,1,0,Sudeste
+R00454,2026-10-10 05:30:00,TV018,Outros,68.56,Ativo,Dispositivo Bluetooth,Outro,0.724,Nao,Ativado,40.53,Publicidade,2,0,Sudeste
+R00175,2026-10-05 18:50:00,TV056,Infantil,4.86,Ativo,Soundbar,Latido,0.608,Nao,Ativado,77.90,Metadados de eventos,2,0,Centro-Oeste
+R00813,2026-09-14 18:00:00,TV041,Filmes,3.40,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,0.00,Sem envio observado,4,0,Sudeste
+R00617,2026-10-09 17:20:00,TV043,Esportes,6.91,Ativo,TV,Silencio,,Sim,Desativado,44.58,ACR/conteudo,2,0,Sudeste
+R00118,2026-09-02 07:20:00,TV027,Infantil,7.24,Ativo,TV,Choro,0.802,Nao,Desativado,45.67,Telemetria sistema,0,0,Nordeste
+R00282,2026-09-26 15:20:00,TV009,Series,3.42,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,0.00,Sem envio observado,4,0,Sul
+R00451,2026-10-02 15:40:00,TV002,Noticias,8.86,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,1,1,Sudeste
+R00106,2026-10-06 12:40:00,TV035,Musica,7.11,Ativo,TV,Latido,0.841,Nao,Ativado,16.68,Metadados de eventos,4,1,Nordeste
+R00533,2026-09-27 13:40:00,,Series,8.06,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,7.84,Publicidade,2,1,Sudeste
+R00172,2026-09-15 04:20:00,TV018,Noticias,2.10,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,19.22,ACR/conteudo,0,0,Sudeste
+R00641,2026-09-21 15:40:00,TV040,Filmes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,56.32,Telemetria sistema,1,0,Centro-Oeste
+R00428,2026-09-06 07:30:00,TV002,Infantil,6.71,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,33.03,Metadados de eventos,1,0,Sudeste
+R00538,2026-09-16 04:10:00,TV042,Noticias,5.19,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,25.54,Publicidade,2,0,Sudeste
+R00829,2026-09-05 12:10:00,TV047,Esportes,8.82,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,18.10,ACR/conteudo,1,0,Sudeste
+R00878,2026-10-01 16:40:00,TV039,Noticias,9.70,Ativo,TV,Voz,0.922,Sim,Ativado,50.45,ACR/conteudo,2,0,Sudeste
+R00779,2026-10-04 03:30:00,TV015,Filmes,7.09,Ativo,Soundbar,Latido,0.907,Nao,Ativado,20.00,ACR/conteudo,2,5,Norte
+R00582,2026-09-14 17:40:00,TV054,Esportes,7.43,Ativo,TV,Ruido,0.790,Sim,Desativado,19.55,ACR/conteudo,2,1,Centro-Oeste
+R00556,2026-09-04 17:10:00,TV009,Noticias,7.04,Ativo,TV,Latido,0.827,Indeterminado,Desativado,0.00,Sem envio observado,0,0,Sul
+R00203,2026-09-20 15:40:00,TV049,Outros,2.33,Ativo,TV,Latido,0.917,Sim,Desativado,13.62,Telemetria sistema,3,0,Nordeste
+R00553,2026-09-04 14:30:00,TV021,Series,10.00,Ativo,Soundbar,Voz,0.583,Sim,Desativado,11.33,Metadados de eventos,1,0,Sudeste
+R00679,2026-09-15 19:40:00,TV032,Esportes,6.21,Ativo,Soundbar,Voz,0.802,Sim,Desativado,49.58,Publicidade,2,0,Centro-Oeste
+R00197,2026-09-06 07:30:00,TV044,Esportes,1.80,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,48.44,ACR/conteudo,2,0,Nordeste
+R00238,2026-09-10 03:20:00,TV055,Infantil,6.40,Ativo,Dispositivo Bluetooth,Voz,0.616,Sim,Desativado,0.00,Sem envio observado,2,1,Nordeste
+R00857,2026-09-04 08:50:00,TV050,Musica,9.45,Ativo,Soundbar,Latido,1.500,Sim,Desativado,33.40,ACR/conteudo,3,0,Norte
+R00521,2026-09-28 08:10:00,TV001,Esportes,7.63,Ativo,TV,Silencio,,Sim,Desativado,124.13,Metadados de eventos,4,1,Sul
+R00065,2026-10-05 08:00:00,TV037,Filmes,7.80,Ativo,Soundbar,Voz,0.633,Sim,Ativado,29.16,ACR/conteudo,2,0,Sudeste
+R00420,2026-10-04 20:30:00,TV013,Infantil,4.67,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,-53.85,Telemetria sistema,2,1,Sul
+R00633,2026-09-19 03:10:00,TV011,Noticias,9.45,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,24.47,ACR/conteudo,1,0,Nordeste
+R00262,2026-09-25 01:20:00,TV016,Series,8.18,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,44.36,Telemetria sistema,1,0,Sudeste
+R00599,2026-10-05 07:20:00,,Outros,6.44,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,38.81,Publicidade,2,2,Sul
+R00701,2026-09-27 02:20:00,TV003,Jogos,9.11,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,52.18,Publicidade,4,0,Sul
+R00085,2026-09-27 03:20:00,TV021,Series,8.97,Ativo,TV,Latido,0.950,Sim,Desativado,58.76,Publicidade,2,0,Sudeste
+R00750,2026-10-02 16:50:00,TV060,Infantil,9.59,Ativo,TV,Outro,0.737,Indeterminado,Desativado,42.16,ACR/conteudo,3,0,Norte
+R00078,2026-09-02 00:40:00,TV023,Series,8.69,Ativo,Dispositivo Bluetooth,Outro,0.953,Sim,Desativado,,Telemetria sistema,3,0,Nordeste
+R00277,2026-09-24 07:00:00,TV012,Series,9.37,Ativo,TV,Silencio,,Nao,Ativado,43.84,ACR/conteudo,0,0,Norte
+R00831,2026-09-07 14:00:00,TV019,Series,2.97,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,21.23,Telemetria sistema,0,0,Sul
+R00187,2026-10-09 18:50:00,TV025,Esportes,4.68,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,24.64,ACR/conteudo,1,0,Centro-Oeste
+R00596,2026-10-06 02:50:00,TV032,Filmes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,2,Centro-Oeste
+R00358,2026-09-09 18:30:00,TV060,Infantil,3.30,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,73.20,Publicidade,-3,0,Norte
+R00395,2026-10-10 23:50:00,TV014,Esportes,7.70,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,39.89,Telemetria sistema,1,1,Nordeste
+R00809,2026-09-18 02:20:00,TV009,Esportes,,Ativo,TV,Silencio,,Indeterminado,Desativado,15.96,Publicidade,1,1,Sul
+R00442,2026-09-11 22:10:00,TV014,Series,6.43,Ativo,TV,Voz,0.564,Nao,Ativado,0.00,Sem envio observado,2,1,Nordeste
+R00814,2026-10-09 10:30:00,TV045,Infantil,6.20,Ativo,TV,Latido,0.895,Sim,Desativado,31.97,Telemetria sistema,3,0,Norte
+R00294,2026-09-11 18:20:00,TV042,Noticias,8.98,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,71.68,Publicidade,1,0,Sudeste
+R00733,2026-10-08 17:30:00,TV027,Noticias,-0.97,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,29.15,ACR/conteudo,4,0,Nordeste
+R00819,2026-09-22 19:00:00,TV012,Filmes,9.54,Inativo,Nao se aplica,Nao se aplica,,,Ativado,10.38,ACR/conteudo,1,0,Norte
+R00854,2026-09-18 14:20:00,TV036,Series,3.96,INATIVO,TV,Ruido,0.868,Indeterminado,Desativado,37.58,Metadados de eventos,3,0,Nordeste
+R00880,2026-09-17 01:30:00,TV049,Infantil,8.35,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,25.83,Telemetria sistema,1,0,Nordeste
+R00370,2026-10-05 07:50:00,TV022,Noticias,8.73,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,75.76,ACR/conteudo,2,0,Nordeste
+R00540,2026-09-05 14:10:00,TV002,Esportes,9.75,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,3,0,Sudeste
+R00296,2026-09-08 06:00:00,TV059,Filmes,7.23,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,35.59,ACR/conteudo,2,0,Nordeste
+R00591,2026-09-07 12:20:00,TV029,Series,7.09,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,1800.00,Publicidade,1,1,Sudeste
+R00101,2026-09-22 22:50:00,TV016,Infantil,6.28,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,9.82,Telemetria sistema,0,0,Sudeste
+R00496,2026-10-01 09:10:00,TV058,Esportes,6.00,Inativo,Nao se aplica,Nao se aplica,,,Ativado,15.96,Telemetria sistema,3,0,Sul
+R00619,2026-09-26 14:30:00,TV039,Esportes,8.08,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,11.47,Telemetria sistema,2,0,Sudeste
+R00001,2026-09-21 01:20:00,TV022,Series,4.57,Ativo,Soundbar,Silencio,,,Ativado,74.55,Publicidade,1,0,Nordeste
+R00068,2026-09-16 04:40:00,TV015,Infantil,6.66,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,27.36,Metadados de eventos,4,0,Norte
+R00079,2026-09-11 02:00:00,TV009,Jogos,2.65,Ativo,Dispositivo Bluetooth,Silencio,,Indeterminado,Desativado,70.46,ACR/conteudo,3,3,Sul
+R00061,2026-09-14 04:20:00,TV009,Esportes,8.32,Ativo,Soundbar,Ruido,0.879,Indeterminado,Desativado,51.13,Publicidade,3,0,Sul
+R00612,2026-10-08 09:10:00,TV003,Esportes,10.00,Ativo,TV,Silencio,,Sim,Desativado,21.33,Metadados de eventos,2,1,Sul
+R00240,2026-10-06 04:00:00,TV018,Series,8.55,ativo,Nao se aplica,Nao se aplica,,Nao,Ativado,56.45,ACR/conteudo,3,0,Sudeste
+R00112,2026-09-28 05:10:00,TV003,Filmes,7.07,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,21.13,ACR/conteudo,2,0,Sul
+R00330,2026-09-09 06:30:00,TV054,Series,6.77,Ativo,TV,Choro,0.936,Sim,Desativado,51.95,Metadados de eventos,1,0,Centro-Oeste
+R00344,2026-09-23 17:40:00,TV038,Esportes,4.65,Ativo,Soundbar,Choro,0.791,Sim,Desativado,45.95,Telemetria sistema,1,0,Nordeste
+R00194,2026-09-24 06:50:00,TV060,Outros,4.49,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,24.32,ACR/conteudo,1,1,Norte
+R00135,2026-09-19 06:50:00,TV037,Noticias,8.61,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,21.80,Publicidade,3,2,Sudeste
+R00429,2026-09-16 02:50:00,TV036,Musica,9.89,Ativo,TV,Latido,0.863,Indeterminado,Desativado,33.44,Metadados de eventos,0,0,Nordeste
+R00832,2026-10-01 12:10:00,TV030,Esportes,4.69,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,21.28,Telemetria sistema,2,0,Nordeste
+R00161,2026-09-02 21:10:00,TV004,Esportes,,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,29.32,Publicidade,2,0,Nordeste
+R00873,2026-10-04 18:40:00,TV056,Noticias,8.64,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,26.08,Metadados de eventos,0,0,Centro-Oeste
+R00871,2026-10-08 12:00:00,TV010,Series,4.66,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,30.01,Telemetria sistema,3,0,Sudeste
+R00092,2026-10-10 09:50:00,TV049,Esportes,6.14,Ativo,TV,Latido,0.766,Sim,Desativado,62.21,Metadados de eventos,3,0,Nordeste
+R00345,2026-09-04 10:00:00,TV025,Series,,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,62.73,Publicidade,2,0,Centro-Oeste
+R00872,2026-09-27 10:00:00,TV009,Filmes,8.34,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,14.32,Publicidade,3,0,Sul
+R00290,2026-09-04 12:30:00,TV047,Filmes,6.13,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,10.32,Telemetria sistema,4,0,Sudeste
+R00699,2026-10-07 06:50:00,TV051,Series,3.89,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,0,Centro-Oeste
+R00610,2026-09-06 20:40:00,TV009,Filmes,4.48,Ativo,TV,Ruido,0.562,Indeterminado,Desativado,26.38,Telemetria sistema,0,0,Sul
+R00800,2026-10-06 00:30:00,TV004,Esportes,9.59,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,1,0,Nordeste
+R00077,2026-09-30 09:10:00,TV003,Jogos,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,37.05,ACR/conteudo,2,0,Sul
+R00563,2026-09-11 06:20:00,TV009,Esportes,4.77,Ativo,TV,Latido,0.731,Indeterminado,Desativado,24.62,Publicidade,2,0,Sul
+R00810,2026-09-18 17:20:00,TV036,,9.05,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,20.05,ACR/conteudo,3,1,Nordeste
+R00858,2026-09-25 23:20:00,TV053,Outros,7.04,Ativo,TV,Ruido,0.820,Sim,Desativado,19.68,Telemetria sistema,2,0,Centro-Oeste
+R00014,2026-10-02 01:10:00,TV024,Noticias,6.55,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,32.83, publicidade ,2,0,Nordeste
+R00381,2026-09-09 15:00:00,TV053,Outros,6.86,Ativo,TV,Voz,0.986,Sim,Desativado,23.34,Telemetria sistema,1,0,Centro-Oeste
+R00758,2026-10-04 22:20:00,TV042,Series,7.61,Ativo,TV,Ruido,0.763,Sim,Desativado,39.39,Metadados de eventos,1,0,Sudeste
+R00402,2026-09-28 19:30:00,TV022,Esportes,5.33,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,8.12,Telemetria sistema,2,0,Nordeste
+R00660,2026-09-17 13:40:00,TV027,Filmes,5.53,Ativo,TV,Voz,0.905,Nao,Desativado,11.79,Publicidade,0,0,Nordeste
+R00109,2026-09-07 11:00:00,TV056,Series,9.39,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,21.25,ACR/conteudo,3,0,Centro-Oeste
+R00317,2026-09-07 08:50:00,TV044,Esportes,5.35,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,40.22,Telemetria sistema,1,0,Nordeste
+R00293,2026-10-04 08:40:00,TV023,Series,8.10,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,14.78,Publicidade,2,0,Nordeste
+R00380,2026-09-29 05:50:00,TV059,Filmes,9.32,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,22.69,Metadados de eventos,2,0,Nordeste
+R00580,2026-10-01 18:00:00,TV015,Noticias,6.65,Ativo,TV,Voz,0.721,Nao,Ativado,21.44,ACR/conteudo,2,0,Norte
+R00874,2026-09-17 01:50:00,TV017,Esportes,8.98,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,23.48,ACR/conteudo,2,0,Sudeste
+R00186,2026-09-19 08:30:00,TV058,Filmes,6.82,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,77.16,Telemetria sistema,2,1,Sul
+R00394,2026-10-03 08:00:00,TV059,Noticias,8.43,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,0,Nordeste
+R00178,2026-10-04 23:10:00,TV057,Infantil,5.50,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,10.79,Publicidade,1,0,Nordeste
+R00483,2026-09-19 00:00:00,,Filmes,2.95,Ativo,Soundbar,Ruido,0.702,Sim,Desativado,39.18,Telemetria sistema,1,1,Sul
+R00360,2026-09-22 19:40:00,TV001,Musica,6.77,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,0,0,Sul
+R00003,2026-10-10 14:30:00,TV012,Series,7.68,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,10.55,Metadados de eventos,1,0,Norte
+R00198,2026-09-03 16:20:00,TV042,Noticias,7.05,Ativo,TV,Silencio,,Sim,Desativado,56.99,ACR/conteudo,2,0,Sudeste
+R00707,2026-09-01 05:10:00,TV055, FILMES ,4.68,Ativo,TV,Ruido,0.830,Sim,Desativado,0.00,Sem envio observado,2,0,Nordeste
+R00140,2026-10-09 01:20:00,TV013,Noticias,7.61,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,14.39,Telemetria sistema,2,0,Sul
+R00139,2026-09-20 02:30:00,TV048,Noticias,7.70,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,47.43,Telemetria sistema,2,0,Sudeste
+R00301,2026-10-04 01:10:00,TV023,Musica,7.83,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,28.67,ACR/conteudo,2,2,Nordeste
+R00474,2026-09-08 17:20:00,TV004,Esportes,4.34,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,6.34,Publicidade,1,0,Nordeste
+R00489,2026-09-05 08:20:00,TV018,Filmes,6.76,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,38.30,Publicidade,3,1,Sudeste
+R00693,2026-09-25 00:30:00,TV047,Filmes,4.75,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,14.11,Telemetria sistema,2,0,Sudeste
+R00441,2026-09-26 12:50:00,TV045,Esportes,2.24,Ativo,TV,Ruido,0.982,Sim,Desativado,12.31,Publicidade,2,0,Norte
+R00781,2026-09-22 20:40:00,TV032,Noticias,10.00,Ativo,TV,Silencio,,Sim,Desativado,21.05,Telemetria sistema,0,0,Centro-Oeste
+R00309,2026-09-01 11:30:00,TV026,Noticias,10.00,Ativo,TV,Voz,0.952,Nao,Desativado,67.47,Metadados de eventos,1,0,Sudeste
+R00403,2026-09-13 19:30:00,TV014,Jogos,8.29,Ativo,Dispositivo Bluetooth,Outro,0.854,Nao,Ativado,0.00,Sem envio observado,1,0,Nordeste
+R00237,2026-09-10 18:00:00,TV039,Esportes,8.99,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,2,0,Sudeste
+R00815,2026-09-21 11:30:00,TV028,Series,5.00,Ativo,TV,Voz,0.609,Sim,Desativado,5.80,Telemetria sistema,2,1,Sul
+R00035,2026-09-13 20:20:00,TV013,Filmes,9.88,Ativo,Soundbar,Ruido,0.832,Nao,Ativado,16.64,Telemetria sistema,1,0,Sul
+R00058,2026-10-06 12:50:00,TV020,Filmes,7.33,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,52.03,Telemetria sistema,4,0,Sudeste
+R00300,2026-09-27 16:20:00,TV009,Series,4.65,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,18.92,Publicidade,2,0,Sul
+R00030,2026-09-11 19:30:00,TV018,Noticias,8.24,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,65.35,Metadados de eventos,2,1,Sudeste
+R00387,2026-09-20 18:10:00,TV003,Esportes,6.82,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,16.39,ACR/conteudo,2,0,Sul
+R00274,2026-10-05 04:00:00,TV023,Noticias,8.60,Ativo,TV,Ruido,0.592,Sim,Desativado,9.27,Publicidade,3,0,Nordeste
+R00783,2026-09-29 10:50:00,TV045,Noticias,6.28,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,1,0,Norte
+R00255,2026-09-29 02:10:00,TV039,Filmes,4.88,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,22.57,ACR/conteudo,0,0,Sudeste
+R00590,2026-09-25 17:40:00,TV050,Musica,5.56,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,36.73,ACR/conteudo,2,0,Norte
+R00745,2026-09-24 17:40:00,TV031,Infantil,4.06,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,49.21,ACR/conteudo,3,0,Centro-Oeste
+R00356,2026-09-25 23:00:00,TV002,Series,10.00,Inativo,Nao se aplica,Nao se aplica,1.500,Nao,Ativado,22.77,Telemetria sistema,1,0,Sudeste
+R00155,2026-09-21 07:20:00,TV043,Series,9.07,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,31.09,ACR/conteudo,2,0,Sudeste
+R00852,2026-09-24 02:40:00,TV014,Filmes,7.43,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,8.23,Publicidade,2,0,Nordeste
+R00472,2026-10-02 15:50:00,TV038,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,8.60,Metadados de eventos,1,1,Nordeste
+R00465,2026-09-12 16:40:00,TV007,Esportes,10.00,Ativo,TV,Silencio,,Sim,Ativado,55.00,Telemetria sistema,2,0,Sudeste
+R00259,2026-09-09 16:20:00,TV019,Noticias,6.22,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,30.69,Publicidade,2,0,Sul
+R00630,2026-09-27 17:10:00,TV048,Jogos,7.43,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,19.49,ACR/conteudo,2,0,Sudeste
+R00686,2026-09-10 00:40:00,TV006,Noticias,7.54,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,25.30,Publicidade,2,0,Nordeste
+R00084,2026-10-01 05:20:00,TV001,Filmes,6.79,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,14.36,ACR/conteudo,0,0,Sul
+R00143,2026-10-01 06:00:00,TV021,Esportes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,26.22,ACR/conteudo,3,1,Sudeste
+R00480,2026-09-24 09:10:00,TV013,Noticias,3.95,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,58.30,ACR/conteudo,3,1,Sul
+R00117,2026-09-06 22:50:00,TV029,Esportes,5.46,Ativo,TV,Voz,0.728,Indeterminado,Desativado,9.57,ACR/conteudo,3,0,Sudeste
+R00043,2026-09-18 00:20:00,TV018,Esportes,0.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,32.95,Telemetria sistema,1,0,Sudeste
+R00144,2026-09-09 12:50:00,TV044,Filmes,6.38,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,36.31,Metadados de eventos,2,0,Nordeste
+R00331,2026-09-01 11:40:00,TV054,Infantil,9.79,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,59.70,Publicidade,0,0,Centro-Oeste
+R00448,2026-10-02 02:10:00,TV044,Series,8.58,Inativo,Nao se aplica,Nao se aplica,,,Ativado,0.00,Sem envio observado,1,0,Nordeste
+R00587,2026-09-02 05:50:00,TV060,Esportes,6.69,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,0.00,Sem envio observado,0,0,Norte
+R00200,2026-09-27 19:30:00,TV015,Filmes,9.93,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,19.96,Publicidade,0,0,Norte
+R00376,2026-09-30 11:00:00,TV007,Filmes,4.38,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,47.50,Publicidade,2,1,Sudeste
+R00469,2026-09-20 08:20:00,TV027,Jogos,8.28,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,79.98,Metadados de Eventos,1,1,Nordeste
+R00558,2026-09-20 17:00:00,TV049,Infantil,2.58,Ativo,Soundbar,Ruido,0.717,Sim,Desativado,3.62,Publicidade,2,0,Nordeste
+R00518,2026-09-25 13:20:00,TV017,Noticias,6.30,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,1,0,Sudeste
+R00665,2026-09-23 17:10:00,TV028,Infantil,6.77,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,32.28,ACR/conteudo,0,0,Sul
+R00536,2026-09-05 09:00:00,TV015,Esportes,5.98,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,2,0,Norte
+R00383,2026-09-17 05:10:00,TV052,Jogos,9.51,Ativo,Dispositivo Bluetooth,Voz,0.711,Nao,Desativado,,Publicidade,1,1,Sudeste
+R00205,2026-09-18 10:30:00,TV030,Filmes,6.85,Ativo,Soundbar,Voz,0.742,Sim,Ativado,18.44,Publicidade,2,0,Nordeste
+R00830,2026-10-07 19:30:00,,Noticias,8.32,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,0,Norte
+R00108,2026-09-18 07:30:00,TV036,Musica,2.39,Ativo,Dispositivo Bluetooth,Silencio,,Indeterminado,Desativado,65.24,Publicidade,2,0,Nordeste
+R00142,2026-10-02 11:40:00,TV004,Filmes,5.23,Ativo,TV,Ruido,0.566,Sim,Ativado,125.70,Publicidade,3,0,Nordeste
+R00460,2026-09-06 18:20:00,TV055,Musica,8.21,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,0,0,Nordeste
+R00609,2026-09-11 17:30:00,TV059,Infantil,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,-41.45,Telemetria sistema,2,0,Nordeste
+R00298,2026-09-09 11:20:00,TV056,Musica,3.40,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,36.01,Telemetria sistema,1,0,Centro-Oeste
+R00667,2026-09-17 09:10:00,TV038,Outros,5.76,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,7.56,Publicidade,2,0,Nordeste
+R00494,2026-09-06 11:00:00,TV022,Series,5.90,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,3,0,Nordeste
+R00516,2026-09-26 01:00:00,TV050,Noticias,6.67,Ativo,TV,Silencio,,Sim,Desativado,27.72,Telemetria sistema,1,0,Norte
+R00740,2026-09-18 08:20:00,TV027,Esportes,7.98,Ativo,Soundbar,Voz,0.683,Nao,Desativado,28.45,ACR/conteudo,3,0,Nordeste
+R00304,2026-09-23 00:50:00,TV041,Esportes,6.70,Ativo,TV,Latido,0.741,Nao,Desativado,2600.00,ACR/conteudo,4,0,Sudeste
+R00598,2026-09-13 02:40:00,TV011,Esportes,3.20,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,41.47,ACR/conteudo,0,0,Nordeste
+R00097,2026-09-22 15:20:00,TV055,Filmes,8.65,Ativo,TV,Latido,0.603,Sim,Desativado,31.20,Metadados de eventos,2,0,Nordeste
+R00823,2026-09-24 11:00:00,TV045,Filmes,8.63,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,11.51,ACR/conteudo,3,0,Norte
+R00638,2026-09-08 00:30:00,TV049,Musica,6.23,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,64.78,Metadados de eventos,3,0,Nordeste
+R00776,2026-09-17 04:20:00,TV047,Series,5.87,Ativo,Soundbar,Voz,0.653,Sim,Desativado,26.40,Metadados de eventos,1,0,Sudeste
+R00146,2026-09-19 12:40:00,TV031,Musica,7.89,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,,Sem envio observado,2,0,Centro-Oeste
+R00228,2026-09-22 21:30:00,TV008,Noticias,9.40,Ativo,TV,Voz,0.712,Sim,Desativado,7.39,Metadados de eventos,4,2,Sudeste
+R00425,2026-09-01 04:10:00,TV018,Series,84.55,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,27.27,Publicidade,2,1,Sudeste
+R00190,2026-09-15 11:20:00,TV005,Filmes,7.10,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,1,Nordeste
+R00593,2026-10-08 03:50:00,TV051,Infantil,7.31,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,29.59,ACR/conteudo,1,0,Centro-Oeste
+R00805,2026-09-18 16:00:00,TV016,Series,2.47,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,14.17,Telemetria sistema,4,0,Sudeste
+R00165,2026-10-02 19:00:00,TV028,Series,5.94,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,79.35,Telemetria sistema,3,0,Sul
+R00157,2026-10-08 17:00:00,TV001,Series,4.31,Ativo,TV,Latido,0.944,Sim,Desativado,35.64,Publicidade,2,1,Sul
+R00361,2026-09-29 19:10:00,TV036,Musica,4.18,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,24.83,Telemetria sistema,1,0,Nordeste
+R00037,2026-09-18 03:00:00,TV059,Musica,6.32,Ativo,Soundbar,Latido,0.947,Sim,Desativado,43.81,Telemetria sistema,3,0,Nordeste
+R00372,2026-09-03 12:50:00,TV016,Esportes,7.28,Ativo,TV,Latido,0.941,Sim,Ativado,10.67,Metadados de eventos,0,0,Sudeste
+R00351,2026-10-03 11:30:00,TV042,Series,7.69,INATIVO,Soundbar,Silencio,,Sim,Desativado,23.92,ACR/conteudo,2,1,Sudeste
+R00207,2026-10-01 16:00:00,TV028,Outros,8.87,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,12.56,Telemetria sistema,2,0,Sul
+R00676,2026-10-10 23:50:00,TV039,Series,7.33,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,2,0,Sudeste
+R00390,2026-09-16 06:00:00,TV030,,7.29,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,25.85,ACR/conteudo,3,0,Nordeste
+R00005,2026-09-09 03:20:00,TV026,Esportes,4.51,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,25.71,ACR/conteudo,2,1,Sudeste
+R00378,2026-09-24 22:40:00,TV012,Noticias,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,24.05,Publicidade,3,0,Norte
+R00231,2026-09-04 06:30:00,TV020,Filmes,5.76,Ativo,TV,Voz,0.610,Sim,Desativado,28.23,Metadados de eventos,2,1,Sudeste
+R00042,2026-10-06 16:20:00,TV048,Esportes,8.03,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,37.75,Publicidade,0,0,Sudeste
+R00302,2026-10-09 06:40:00,TV048,Noticias,10.00,Inativo,Nao se aplica,Nao se aplica,,,Ativado,18.91,ACR/conteudo,2,0,Sudeste
+R00058,2026-10-06 12:50:00,TV020,Filmes,7.33,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,52.03,Telemetria sistema,4,0,Sudeste
+R00584,2026-10-01 14:00:00,TV042,,8.28,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,23.60,Publicidade,1,0,Sudeste
+R00863,2026-09-02 21:00:00,TV015,Noticias,6.61,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,28.55,Telemetria sistema,2,1,Norte
+R00439,2026-10-04 15:20:00,TV048,Noticias,9.95,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,7.18,Telemetria sistema,2,0,Sudeste
+R00405,2026-09-14 07:50:00,TV051,Filmes,7.61,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,25.42,Publicidade,2,0,Centro-Oeste
+R00236,2026-10-04 12:10:00,TV004,Esportes,4.28,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,20.34,Metadados de eventos,2,0,Nordeste
+R00006,2026-09-18 19:10:00,TV022,Esportes,4.17,Ativo,TV,Ruido,0.621,Nao,Ativado,16.39,ACR/conteudo,4,0,Nordeste
+R00191,2026-09-29 06:30:00,TV013,Filmes,7.83,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,7.98,Telemetria sistema,2,0,Sul
+R00180,2026-10-09 01:50:00,TV005,Filmes,5.82,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,7.96,Metadados de eventos,2,0,Nordeste
+R00297,2026-09-12 00:20:00,TV053,Series,3.39,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,9.89,Publicidade,1,0,Centro-Oeste
+R00177,2026-09-14 00:00:00,TV032,Noticias,6.13,Ativo,Soundbar,Ruido,0.824,Sim,Desativado,24.63,Publicidade,2,0,Centro-Oeste
+R00176,2026-09-17 02:30:00,TV043,Noticias,7.92,Ativo,Soundbar,Latido,0.653,Sim,Desativado,21.45,Publicidade,1,0,Sudeste
+R00552,2026-10-06 22:20:00,TV044,Esportes,4.63,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,2,0,Nordeste
+R00654,2026-09-09 21:50:00,TV005,Filmes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,,Telemetria sistema,3,0,Nordeste
+R00148,2026-09-15 01:50:00,TV001,Filmes,7.71,Ativo,Soundbar,Outro,0.892,Sim,Desativado,28.26,Publicidade,2,0,Sul
+R00025,2026-09-06 08:10:00,TV020,Filmes,5.30,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,45.31,ACR/conteudo,3,0,Sudeste
+R00280,2026-10-10 20:20:00,TV044,Series,5.26,Ativo,TV,Outro,0.615,Nao,Ativado,0.00,Sem envio observado,1,0,Nordeste
+R00816,2026-09-12 16:40:00,TV034,Jogos,6.57,Ativo,TV,Voz,0.987,Sim,Ativado,22.93,Publicidade,4,0,Nordeste
+R00359,2026-10-09 21:00:00,TV020,Noticias,5.89,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,16.63,Metadados de eventos,1,1,Sudeste
+R00457,2026-09-04 14:10:00,TV027,Jogos,7.36,Ativo,Soundbar,Voz,0.876,Nao,Desativado,25.80,Telemetria sistema,3,0,Nordeste
+R00041,2026-10-07 21:10:00,TV059,Series,6.65,Ativo,TV,Silencio,,Sim,Desativado,35.19,ACR/conteudo,1,0,Nordeste
+R00385,2026-09-15 03:00:00,TV029,Esportes,6.52,ativo,Soundbar,Outro,0.823,Indeterminado,Desativado,171.62,Publicidade,0,0,Sudeste
+R00531,2026-09-14 05:40:00,TV038,Esportes,8.65,Ativo,TV,Latido,0.887,Sim,Desativado,22.18,ACR/conteudo,3,0,Nordeste
+R00828,2026-09-25 18:20:00,TV038,Noticias,5.20,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,58.40,Telemetria sistema,2,0,Nordeste
+R00589,2026-09-01 13:50:00,TV049,Filmes,7.85,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,45.05,ACR/conteudo,2,0,Nordeste
+R00720,2026-10-03 09:20:00,TV041,Esportes,4.39,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,14.74,Metadados de eventos,0,0,Sudeste
+R00481,2026-09-13 19:50:00,TV060,,6.10,Ativo,Soundbar,Latido,0.964,Indeterminado,Desativado,58.07,ACR/conteudo,3,0,Norte
+R00566,2026-09-30 07:00:00,TV015,noticias,9.13,Ativo,TV,Outro,0.760,Nao,Ativado,31.51,Metadados de eventos,1,0,Norte
+R00464,2026-09-18 16:20:00,TV033,Noticias,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,1,1,Sul
+R00529,2026-09-04 12:30:00,TV038,Filmes,10.00,Ativo,TV,Latido,0.948,Sim,Desativado,0.00, publicidade ,0,0,Nordeste
+R00150,2026-10-01 16:30:00,TV032,Series,6.41,Ativo,Dispositivo Bluetooth,Voz,0.766,Sim,Desativado,12.98,Telemetria sistema,2,2,Centro-Oeste
+R00573,2026-09-04 23:20:00,TV048,Infantil,6.33,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,42.32,Telemetria sistema,0,0,Sudeste
+R00392,2026-09-12 13:40:00,TV010,Filmes,8.11,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,1,0,Sudeste
+R00436,2026-10-05 14:30:00,TV051,Noticias,5.82,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,40.83,Metadados de eventos,2,1,Centro-Oeste
+R00295,2026-10-10 04:30:00,TV002,Musica,3.20,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,26.25,Telemetria sistema,0,0,Sudeste
+R00479,2026-09-16 12:40:00,TV035,Outros,5.24,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,11.85,Metadados de eventos,4,0,Nordeste
+R00379,2026-09-15 03:30:00,TV056,Esportes,7.70,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,1,0,Centro-Oeste
+R00716,2026-09-16 19:30:00,TV004,Esportes,4.02,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,11.44,Publicidade,4,0,Nordeste
+R00526,2026-09-30 03:50:00,TV056,Noticias,8.15,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,18.04,Publicidade,2,1,Centro-Oeste
+R00744,2026-10-08 21:00:00,TV058,Esportes,7.10,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,35.23,Telemetria sistema,1,0,Sul
+R00577,2026-09-11 11:40:00,TV006,Jogos,6.82,Ativo,TV,Latido,0.937,Sim,Desativado,15.01,Telemetria sistema,3,0,Nordeste
+R00374,2026-09-10 21:40:00,TV024,Series,4.31,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,15.86,Publicidade,2,1,Nordeste
+R00788,2026-09-09 13:40:00,TV002,Jogos,8.95,Ativo,Dispositivo Bluetooth,Silencio,,Nao,Ativado,44.67,Publicidade,0,0,Sudeste
+R00124,2026-09-22 23:00:00,TV060,Noticias,7.79,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,24.49,ACR/conteudo,3,0,Norte
+R00116,2026-09-21 15:20:00,TV008,Esportes,9.15,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,0,Sudeste
+R00570,2026-09-27 22:40:00,TV032,Filmes,8.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,58.03,Telemetria sistema,2,1,Centro-Oeste
+R00661,2026-10-10 08:30:00,TV048,Noticias,8.40,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,15.26,Publicidade,3,0,Sudeste
+R00588,2026-09-18 07:50:00,TV034,Outros,7.51,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,20.69,Publicidade,3,0,Nordeste
+R00812,2026-10-01 15:10:00,TV046,Esportes,7.12,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,,Telemetria sistema,2,1,Sudeste
+R00322,2026-09-16 03:10:00,TV020,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,16.50,Telemetria sistema,3,2,Sudeste
+R00482,2026-09-11 12:50:00,TV020,Jogos,7.79,Ativo,Soundbar,Silencio,,Sim,Desativado,20.83,Telemetria sistema,0,0,Sudeste
+R00384,2026-09-06 02:30:00,TV029,Series,6.62,Inativo,Nao se aplica,Nao se aplica,1.150,Indeterminado,Desativado,36.46,ACR/conteudo,2,0,Sudeste
+R00421,2026-09-02 19:00:00,TV037,séries,5.99,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,7.21,Publicidade,2,1,Sudeste
+R00601,2026-09-01 23:10:00,TV019,Esportes,6.09,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,48.31,Telemetria sistema,1,0,Sul
+R00020,2026-09-21 22:30:00,TV043,Infantil,8.71,Ativo,TV,Silencio,,Sim,Desativado,18.37,ACR/conteudo,2,0,Sudeste
+R00708,2026-09-17 00:50:00,TV059,Series,7.81,Ativo,TV,Ruido,0.721,Sim,Desativado,31.95,Publicidade,1,0,Nordeste
+R00066,2026-09-10 19:10:00,TV026,Filmes,6.35,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,10.83,ACR/conteudo,0,0,Sudeste
+R00103,2026-09-23 01:10:00,TV044,Filmes,3.14,Ativo,TV,Silencio,,Nao,Ativado,30.50,Metadados de eventos,2,0,Nordeste
+R00113,2026-10-01 19:10:00,TV015,Filmes,8.65,Ativo,Soundbar,Ruido,0.739,Nao,Ativado,0.00,Sem envio observado,1,0,Norte
+R00710,2026-09-18 21:30:00,TV022,,9.88,Ativo,TV,Ruido,0.613,Nao,Ativado,14.11,Publicidade,1,0,Nordeste
+R00409,2026-09-02 12:10:00,TV027,Musica,8.90,Ativo,Soundbar,Latido,0.922,Nao,Desativado,43.96,ACR/conteudo,2,0,Nordeste
+R00149,2026-09-21 01:00:00,,Filmes,7.79,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,26.83,Publicidade,4,1,Centro-Oeste
+R00132,2026-09-29 14:40:00,TV041,Filmes,5.12,Ativo,Dispositivo Bluetooth,Choro,0.854,Nao,Desativado,0.00,Sem envio observado,2,0,Sudeste
+R00622,2026-09-25 03:00:00,TV013,Series,8.67,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,36.74,Telemetria sistema,3,1,Sul
+R00328,2026-09-21 07:10:00,TV054,Series,3.35,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,34.60,Publicidade,3,0,Centro-Oeste
+R00524,2026-10-03 23:00:00,TV045,Noticias,5.98,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,54.11,Metadados de eventos,1,0,Norte
+R00031,2026-09-28 07:50:00,TV021,Esportes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,57.02,ACR/conteudo,3,0,Sudeste
+R00700,2026-10-07 17:00:00,TV013,Jogos,,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,38.61,Publicidade,2,1,Sul
+R00426,2026-09-02 02:00:00,TV001,Filmes,6.61,Ativo,Soundbar,Ruido,0.696,Sim,Desativado,30.20,Metadados de eventos,2,0,Sul
+R00224,2026-09-29 10:10:00,TV044,Noticias,8.99,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,32.95,Telemetria sistema,0,0,Nordeste
+R00739,2026-09-14 02:10:00,TV007,Filmes,7.24,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,10.00,Publicidade,2,0,Sudeste
+R00571,2026-09-16 04:30:00,TV005,Filmes,7.12,Ativo,TV,Choro,0.923,Sim,Desativado,14.32,Publicidade,4,3,Nordeste
+R00367,2026-10-06 11:00:00,TV046,Noticias,8.58,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,22.50,Telemetria sistema,0,0,Sudeste
+R00717,2026-09-20 01:50:00,TV042,Esportes,6.09,Ativo,Dispositivo Bluetooth,Latido,0.967,Sim,Desativado,33.57,Telemetria sistema,1,0,Sudeste
+R00547,2026-09-03 17:40:00,TV003,Musica,8.41,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,0,0,Sul
+R00695,2026-09-09 15:40:00,TV017,Esportes,9.74,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,16.22,Metadados de eventos,2,1,Sudeste
+R00513,2026-10-02 22:40:00,TV003,Outros,9.27,Ativo,Soundbar,Voz,0.591,Sim,Desativado,24.66,ACR/conteudo,2,0,Sul
+R00039,2026-09-23 03:00:00,TV057,Filmes,5.32,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,18.35,Telemetria sistema,2,0,Nordeste
+R00396,2026-10-06 13:40:00,TV006,Outros,5.10,Ativo,TV,Silencio,,Sim,Desativado,52.92,Telemetria sistema,1,0,Nordeste
+R00406,2026-09-27 17:30:00,TV049,Filmes,7.64,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,62.94,Publicidade,2,0,Nordeste
+R00009,2026-09-03 12:20:00,TV035,Series,9.35,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,19.42,Metadados de eventos,1,0,Nordeste
+R00749,2026-10-03 21:10:00,TV050,Series,7.72,ativo,Soundbar,Choro,0.756,Sim,Desativado,12.02,Publicidade,2,0,Norte
+R00497,2026-10-09 08:00:00,TV013,Series,9.17,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,51.01,Telemetria sistema,3,0,Sul
+R00512,2026-09-28 00:20:00,TV036,Outros,4.71,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,11.52,Publicidade,4,0,Nordeste
+R00765,2026-09-16 07:40:00,TV011,Jogos,4.75,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,15.01,Telemetria sistema,0,0,Nordeste
+R00790,2026-09-14 23:50:00,TV010,Filmes,2.92,Ativo,TV,Silencio,,Sim,Desativado,7.59,ACR/conteudo,0,0,Sudeste
+R00343,2026-09-15 02:10:00,TV060,Filmes,6.59,Ativo,TV,Silencio,,Indeterminado,Desativado,12.97,Publicidade,2,1,Norte
+R00527,2026-09-15 18:40:00,TV043,Series,6.05,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,0,Sudeste
+R00428,2026-09-06 07:30:00,TV002,Infantil,6.71,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,33.03,Metadados de eventos,1,0,Sudeste
+R00073,2026-09-18 15:50:00,TV031,Series,5.99,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,25.62,ACR/conteudo,2,1,Centro-Oeste
+R00851,2026-09-09 11:40:00,TV036,Jogos,9.39,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,20.83,Metadados de eventos,4,0,Nordeste
+R00074,2026-09-22 18:30:00,TV031,Esportes,6.94,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,34.71,Telemetria sistema,0,0,Centro-Oeste
+R00868,2026-09-13 07:20:00,TV056,Filmes,1.86,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,26.66,ACR/conteudo,1,0,Centro-Oeste
+R00618,2026-09-08 20:10:00,TV012,Noticias,7.19,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,25.56,Telemetria sistema,2,0,Norte
+R00846,2026-09-28 12:10:00,TV058,Infantil,7.23,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,21.16,Telemetria sistema,3,0,Sul
+R00803,2026-09-11 05:30:00,TV002,Filmes,7.49,Ativo,TV,Silencio,,Nao,Ativado,32.98,Metadados de eventos,0,0,Sudeste
+R00624,2026-09-02 14:10:00,TV050,Series,8.56,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,43.75,ACR/conteudo,3,0,Norte
+R00267,2026-09-17 00:20:00,TV055,Filmes,6.88,Ativo,TV,Ruido,0.708,,Desativado,8.69,Metadados de eventos,0,0,Nordeste
+R00844,2026-09-26 09:50:00,TV038,Esportes,8.65,Ativo,TV,Silencio,,Sim,Desativado,61.63,ACR/conteudo,0,0,Nordeste
+R00734,2026-09-24 10:20:00,TV054,Musica,9.21,Ativo,Dispositivo Bluetooth,Outro,0.965,Sim,Desativado,22.05,Publicidade,0,0,Centro-Oeste
+R00313,2026-10-04 22:30:00,TV037,Series,3.67,Ativo,TV,Latido,0.772,Sim,Ativado,16.25,Telemetria sistema,2,0,Sudeste
+R00796,2026-09-30 07:50:00,TV023,Outros,3.59,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,30.65,ACR/conteudo,0,0,Nordeste
+R00138,2026-10-09 12:20:00,TV032,Musica,5.16,Inativo,Nao se aplica,Nao se aplica,-0.250,Sim,Desativado,38.57,ACR/conteudo,2,1,Centro-Oeste
+R00785,2026-09-23 11:10:00,TV032,Series,9.91,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,28.59,Publicidade,1,0,Centro-Oeste
+R00514,2026-09-20 16:40:00,TV039,Series,4.45,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,18.90,ACR/conteudo,4,2,Sudeste
+R00695,2026-09-09 15:40:00,TV017,Esportes,9.74,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,16.22,Metadados de eventos,2,1,Sudeste
+R00008,2026-09-10 23:40:00,TV055,,8.91,Ativo,Soundbar,Ruido,0.746,Sim,Desativado,56.53,Publicidade,3,0,Nordeste
+R00725,2026-09-30 20:10:00,TV016,Esportes,4.96,Ativo,TV,Latido,0.732,Sim,Ativado,25.24,ACR/conteudo,3,3,Sudeste
+R00225,2026-09-27 08:40:00,TV014,Series,7.56,Ativo,Soundbar,Choro,0.616,Nao,Ativado,9.20,Telemetria sistema,0,0,Nordeste
+R00545,2026-09-20 19:10:00,TV024,Filmes,7.11,Inativo,Nao se aplica,Nao se aplica,,,Ativado,27.46,Publicidade,3,0,Nordeste
+R00557,2026-09-12 23:50:00,TV013,Esportes,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,11.06,Telemetria sistema,1,0,Sul
+R00787,2026-09-27 22:00:00,TV021,Series,7.10,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,80.35,Publicidade,2,0,Sudeste
+R00125,2026-10-10 20:40:00,TV005,Series,7.74,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,28.69,Publicidade,0,0,Nordeste
+R00677,2026-10-06 01:40:00,TV032,Jogos,9.69,Ativo,Soundbar,Voz,0.656,Sim,Desativado,16.93,Telemetria sistema,1,0,Centro-Oeste
+R00581,2026-09-20 05:50:00,TV025,Series,7.88,Ativo,Soundbar,Silencio,,Sim,Desativado,30.00,Publicidade,2,0,Centro-Oeste
+R00111,2026-10-07 02:30:00,TV037,Filmes,10.00, Inativo ,Nao se aplica,Nao se aplica,,Sim,Ativado,40.19,Publicidade,4,0,Sudeste
+R00586,2026-10-09 16:20:00,TV052,Series,2.28,Ativo,Dispositivo Bluetooth,Silencio,,Nao,Desativado,12.17,Metadados de eventos,2,0,Sudeste
+R00354,2026-10-09 02:30:00,TV020,Outros,4.46,Inativo,Nao se aplica,Nao se aplica,,,Desativado,13.78,ACR/conteudo,3,0,Sudeste
+R00471,2026-10-01 15:10:00,TV031,Series,4.70,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,81.18,Metadados de eventos,1,0,Centro-Oeste
+R00064,2026-09-17 11:40:00,TV036,Series,8.72,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,0.00,Sem envio observado,2,0,Nordeste
+R00095,2026-10-08 04:10:00,TV028,Filmes,10.00,Ativo,TV,Outro,0.956,Sim,Desativado,9.85,Publicidade,2,1,Sul
+R00279,2026-10-07 16:00:00,TV006,Musica,6.07,Ativo,Soundbar,Silencio,,Sim,Desativado,0.00,Sem envio observado,0,0,Nordeste
+R00568,2026-09-29 00:00:00,,Series,8.57,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,50.38,Publicidade,2,0,Nordeste
+R00735,2026-09-04 06:20:00,TV056,Filmes,5.58,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,62.08,Telemetria sistema,1,1,Centro-Oeste
+R00477,2026-09-02 07:10:00,TV020,Noticias,,Ativo,TV,Ruido,0.972,Sim,Desativado,20.85,ACR/conteudo,2,0,Sudeste
+R00316,2026-10-09 04:00:00,TV030,Filmes,6.56,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,31.56,ACR/conteudo,2,0,Nordeste
+R00416,2026-09-09 06:30:00,TV040,Filmes,6.52,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,18.84,Telemetria sistema,0,0,Centro-Oeste
+R00399,2026-09-25 22:50:00,TV045,Series,9.49,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,18.62,ACR/conteudo,0,0,Norte
+R00115,2026-10-02 10:20:00,TV060,Esportes,8.47,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,23.13,Telemetria sistema,3,0,Norte
+R00321,2026-09-01 23:30:00,TV055,Infantil,5.49,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,20.17,Publicidade,2,1,Nordeste
+R00174,2026-10-10 16:50:00,TV027,Esportes,7.71,Ativo,Soundbar,Latido,0.930,Nao,Desativado,8.29,ACR/conteudo,4,0,Nordeste
+R00723,2026-09-26 15:00:00,TV049,Series,8.68,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,20.57,ACR/conteudo,3,0,Nordeste
+R00366,2026-09-20 00:20:00,TV058,Noticias,7.98,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,31.65,Telemetria sistema,1,0,Sul
+R00504,2026-09-16 00:40:00,TV058,Filmes,,Ativo,TV,Choro,0.982,Nao,Ativado,9.44,ACR/conteudo,0,0,Sul
+R00651,2026-10-04 21:30:00,TV030,Series,8.35,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,40.61,Telemetria sistema,3,0,Nordeste
+R00771,2026-09-29 18:20:00,TV017,Esportes,1.79,Ativo,TV,Voz,0.965,Sim,Ativado,31.78,Telemetria sistema,3,0,Sudeste
+R00241,2026-09-24 17:00:00,TV019,Esportes,6.86,Ativo,Soundbar,Voz,0.739,Sim,Desativado,0.00,Sem envio observado,3,0,Sul
+R00617,2026-10-09 17:20:00,TV043,Esportes,6.91,Ativo,TV,Silencio,,Sim,Desativado,44.58,ACR/conteudo,2,0,Sudeste
+R00835,2026-09-25 11:40:00,TV050,Noticias,9.27,Ativo,Soundbar,Ruido,0.580,Sim,Desativado,27.75,Telemetria sistema,1,0,Norte
+R00104,2026-10-06 05:10:00,TV019,Series,5.59,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,36.93,Publicidade,2,0,Sul
+R00307,2026-09-25 02:50:00,TV049,Esportes,6.04,Ativo,TV,Ruido,0.912,Sim,Desativado,0.00,Sem envio observado,0,0,Nordeste
+R00694,2026-10-05 21:00:00,TV048,Esportes,9.87,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,2,0,Sudeste
+R00639,2026-09-13 07:20:00,TV058,Series,9.27,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,3.92,ACR/conteudo,3,1,Sul
+R00365,2026-10-03 00:10:00,TV050,Esportes,6.06,Ativo,TV,Outro,0.881,Sim,Desativado,60.43,Publicidade,2,0,Norte
+R00303,2026-09-24 12:20:00,TV058,Musica,9.17,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,27.59,Publicidade,2,0,Sul
+R00850,2026-10-04 16:50:00,TV039,Jogos,4.30,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,2,0,Sudeste
+R00204,2026-09-29 13:30:00,TV051,Infantil,5.80,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,17.75,Telemetria sistema,3,2,Centro-Oeste
+R00722,2026-09-20 18:20:00,TV040,Noticias,4.87,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,0,Centro-Oeste
+R00334,2026-10-02 17:00:00,TV054,Outros,45.25,Ativo,Dispositivo Bluetooth,Silencio,,Sim,Desativado,28.88,Publicidade,0,0,Centro-Oeste
+R00297,2026-09-12 00:20:00,TV053,Series,3.39,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,9.89,Publicidade,1,0,Centro-Oeste
+R00433,2026-10-08 15:10:00,TV046,Infantil,6.40,ativo,Nao se aplica,Nao se aplica,,Nao,Ativado,53.66,Telemetria sistema,0,0,Sudeste
+R00071,2026-10-02 02:40:00,TV040,Noticias,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,0,Centro-Oeste
+R00688,2026-09-03 13:30:00,TV043,Outros,7.93,Ativo,TV,Voz,0.556,Sim,Desativado,0.00,Sem envio observado,1,0,Sudeste
+R00281,2026-10-05 23:10:00,TV047,Filmes,2.84,Ativo,TV,Choro,0.863,Sim,Desativado,28.81,ACR/conteudo,2,0,Sudeste
+R00761,2026-10-10 11:50:00,TV012,Outros,8.48,Ativo,Soundbar,Silencio,,Nao,Ativado,0.00,Sem envio observado,1,0,Norte
+R00455,2026-09-22 23:20:00,TV005,Filmes,5.15,Ativo,Dispositivo Bluetooth,Voz,0.774,Sim,Desativado,16.44,Telemetria sistema,2,0,Nordeste
+R00036,2026-09-29 09:20:00,TV044,Noticias,4.53,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,17.13,Telemetria sistema,2,0,Nordeste
+R00485,2026-10-02 08:10:00,,Series,10.00,Ativo,TV,Choro,0.731,Sim,Desativado,9.84,ACR/conteudo,3,0,Centro-Oeste
+R00453,2026-10-03 06:10:00,TV009,Esportes,10.00,Ativo,TV,Silencio,,Indeterminado,Desativado,,Sem envio observado,0,0,Sul
+R00382,2026-09-07 23:00:00,TV008,Esportes,7.96,Ativo,TV,Ruido,0.701,Sim,Desativado,0.00,Sem envio observado,2,0,Sudeste
+R00869,2026-09-14 10:20:00,TV018,Filmes,4.34,Ativo,TV,Voz,0.682,Nao,Ativado,33.34,Telemetria sistema,3,1,Sudeste
+R00129,2026-09-20 00:20:00,TV024,Outros,9.15,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,35.06,Publicidade,2,0,Nordeste
+R00414,2026-09-20 22:40:00,TV034,Musica,6.31,Inativo,Nao se aplica,Nao se aplica,,,Ativado,15.36,Publicidade,2,1,Nordeste
+R00877,2026-09-03 20:30:00,TV023,Esportes,4.05,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,40.78,Telemetria sistema,2,1,Nordeste
+R00338,2026-10-03 17:30:00,TV049,Esportes,7.90,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,42.42,Telemetria sistema,1,1,Nordeste
+R00859,2026-09-14 02:30:00,TV015,Series,5.26,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,26.32,Telemetria sistema,3,1,Norte
+R00775,2026-09-23 09:00:00,TV010,Musica,8.87,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,29.33,Publicidade,2,0,Sudeste
+R00801,2026-09-11 05:10:00,TV041,Esportes,7.89,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,26.77,Publicidade,3,0,Sudeste
+R00824,2026-09-26 03:30:00,TV024,Noticias,2.45,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,41.83,Telemetria sistema,1,1,Nordeste
+R00727,2026-09-22 17:40:00,TV049,Filmes,7.41,Ativo,TV,Latido,0.658,Sim,Desativado,37.37,ACR/conteudo,3,0,Nordeste
+R00603,2026-09-02 19:30:00,TV017,Jogos,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,63.70,ACR/conteudo,2,0,Sudeste
+R00168,2026-09-27 11:10:00,TV036,Noticias,8.20,Ativo,TV,Voz,0.785,Indeterminado,Desativado,58.79,Telemetria sistema,3,1,Nordeste
+R00523,2026-10-01 09:10:00,TV041,Esportes,7.24,Ativo,Dispositivo Bluetooth,Outro,0.848,Nao,Desativado,10.88,ACR/conteudo,1,0,Sudeste
+R00314,2026-09-19 15:10:00,TV031,Series,9.51,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Metadados de Eventos,3,0,Centro-Oeste
+R00576,2026-10-01 07:50:00,TV060,Filmes,5.82,Ativo,Soundbar,Voz,0.673,,Desativado,38.64,Telemetria sistema,2,1,Norte
+R00333,2026-09-17 10:10:00,TV044,Esportes,4.73,ativo,Dispositivo Bluetooth,Ruido,0.683,Nao,Ativado,23.95,Telemetria sistema,4,0,Nordeste
+R00352,2026-09-05 06:20:00,TV017,Noticias,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,51.19,ACR/conteudo,3,1,Sudeste
+R00199,2026-09-21 12:50:00,TV047,Filmes,8.16,Ativo,Soundbar,Latido,0.575,Sim,Desativado,29.94,Publicidade,3,1,Sudeste
+R00185,2026-09-25 09:30:00,TV051,Noticias,7.33,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,35.60,Telemetria sistema,2,1,Centro-Oeste
+R00305,2026-09-29 11:20:00,TV021, FILMES ,7.30,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,20.73,Publicidade,2,0,Sudeste
+R00275,2026-09-09 03:40:00,TV022,Esportes,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,2,0,Nordeste
+R00770,2026-09-02 21:50:00,,Filmes,7.20,Ativo,Dispositivo Bluetooth,Ruido,0.727,Sim,Desativado,13.76,Telemetria sistema,1,0,Sudeste
+R00023,2026-10-03 10:10:00,TV041,Series,5.97,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,42.41,Publicidade,4,0,Sudeste
+R00559,2026-09-28 10:40:00,TV015,Jogos,4.35,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,2,0,Norte
+R00795,2026-09-25 09:10:00,TV014,Filmes,5.28,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,11.79,Telemetria sistema,2,0,Nordeste
+R00060,2026-10-05 17:00:00,TV006,Series,3.52,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,0,0,Nordeste
+R00371,2026-09-02 08:50:00,TV039,Outros,8.01,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,5.45,Telemetria sistema,1,0,Sudeste
+R00755,2026-09-27 16:20:00,TV001,Filmes,5.62,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,19.91,Telemetria sistema,3,1,Sul
+R00265,2026-10-01 12:30:00,TV012,Series,7.18,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,0,0,Norte
+R00260,2026-09-03 14:40:00,TV033, infantil ,5.89,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,3,0,Sul
+R00692,2026-09-13 19:00:00,TV027,Series,6.22,Ativo,TV,Silencio,,Nao,Desativado,16.70,Telemetria sistema,3,0,Nordeste
+R00613,2026-09-24 15:20:00,TV027,Esportes,10.00,Ativo,TV,Outro,0.598,Nao,Desativado,0.00,acr/conteudo,3,0,Nordeste
+R00434,2026-09-25 15:40:00,TV015,Musica,7.79,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,68.93,ACR/conteudo,1,0,Norte
+R00424,2026-09-29 01:10:00,TV006,Outros,4.68,Ativo,TV,Silencio,,Sim,Desativado,27.57,Telemetria sistema,3,0,Nordeste
+R00645,2026-10-05 20:20:00,TV005,Infantil,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,54.84,Publicidade,1,0,Nordeste
+R00105,2026-09-24 05:20:00,TV047,Filmes,5.75,Ativo,TV,Ruido,0.879,Sim,Desativado,0.00,Sem envio observado,2,0,Sudeste
+R00456,2026-09-03 22:20:00,TV012,Esportes,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,20.50,Publicidade,3,2,Norte
+R00261,2026-10-07 03:40:00,TV038,Jogos,9.61,Ativo,TV,Ruido,0.686,Sim,Desativado,13.79,Metadados de eventos,0,0,Nordeste
+R00847,2026-09-25 17:00:00,TV020, FILMES ,7.63,Ativo,TV,Silencio,,Sim,Desativado,34.40,Telemetria sistema,2,1,Sudeste
+R00784,2026-09-26 00:10:00,TV008,Esportes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,15.42,ACR/conteudo,2,0,Sudeste
+R00244,2026-09-06 06:10:00,TV027,Jogos,4.79,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,17.78,ACR/conteudo,2,0,Nordeste
+R00445,2026-09-13 11:00:00,TV004,Filmes,6.39,Inativo,Nao se aplica,Nao se aplica,,,Ativado,66.23,ACR/conteudo,1,0,Nordeste
+R00412,2026-09-01 19:30:00,TV029,Esportes,8.25,Ativo,TV,Outro,0.809,Indeterminado,Desativado,65.02,Publicidade,2,0,Sudeste
+R00059,2026-09-13 07:10:00,TV002,Musica,5.93,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,29.72,Publicidade,1,1,Sudeste
+R00644,2026-09-01 09:30:00,TV043,Filmes,2.61,Ativo,TV,Outro,0.566,Sim,Desativado,80.87,ACR/conteudo,0,0,Sudeste
+R00565,2026-10-04 14:00:00,TV047,Filmes,4.96,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,24.13,ACR/conteudo,3,0,Sudeste
+R00585,2026-10-03 20:10:00,TV012,Musica,7.36,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,35.86,ACR/conteudo,1,1,Norte
+R00726,2026-09-10 12:20:00,TV019,Series,7.13,Ativo,TV,Ruido,0.868,Sim,Desativado,28.56,Metadados de eventos,1,1,Sul
+R00011,2026-09-05 18:20:00,TV053,Filmes,5.85,Ativo,TV,Ruido,0.856,Sim,Desativado,0.00,Sem envio observado,0,0,Centro-Oeste
+R00210,2026-09-12 14:10:00,TV023,Noticias,5.52,Ativo,TV,Ruido,0.781,Sim,Desativado,58.68,ACR/conteudo,3,0,Nordeste
+R00136,2026-09-08 13:50:00,TV002,Jogos,2.01,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,37.01,Telemetria sistema,2,0,Sudeste
+R00278,2026-09-14 06:50:00,TV002,Series,2.79,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,14.72,Publicidade,4,2,Sudeste
+R00520,2026-10-03 21:50:00,TV060,Esportes,4.85,Ativo,TV,Silencio,,Indeterminado,Desativado,-31.29,Telemetria sistema,0,0,Norte
+R00542,2026-09-23 21:40:00,TV044,Series,8.04,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,41.88,Publicidade,2,0,Nordeste
+R00247,2026-09-22 23:10:00,TV053,,7.97,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,44.77,Metadados de eventos,0,0,Centro-Oeste
+R00355,2026-09-02 22:00:00,TV030,Esportes,9.79,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,56.48,acr/conteudo,1,1,Nordeste
+R00741,2026-09-30 06:20:00,TV032,Filmes,3.54,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,25.90,Metadados de eventos,4,0,Centro-Oeste
+R00657,2026-09-28 21:20:00,TV020,Esportes,,Ativo,TV,Silencio,,Sim,Desativado,36.21,Metadados de eventos,2,0,Sudeste
+R00534,2026-09-02 18:30:00,TV035,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,17.85,ACR/conteudo,3,1,Nordeste
+R00437,2026-09-09 04:40:00,TV023,Musica,7.65,Ativo,Soundbar,Voz,0.584,Sim,Desativado,0.00,Sem envio observado,-3,0,Nordeste
+R00130,2026-09-07 09:20:00,TV030,Series,8.63,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,9.27,Publicidade,2,0,Nordeste
+R00056,2026-10-08 05:40:00,TV060,Noticias,7.19,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,31.25,Telemetria sistema,1,0,Norte
+R00709,2026-09-22 11:30:00,TV050,Infantil,6.68,Ativo,Dispositivo Bluetooth,Latido,0.700,Sim,Desativado,26.94,ACR/conteudo,1,0,Norte
+R00400,2026-09-04 05:30:00,TV010,Filmes,9.95,Ativo,TV,Latido,0.687,Sim,Desativado,0.00,Sem envio observado,1,0,Sudeste
+R00838,2026-09-12 04:40:00,TV057,Musica,4.13,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,30.15,Telemetria sistema,2,0,Nordeste
+R00615,2026-09-28 21:00:00,TV022,Outros,10.00,Ativo,TV,Outro,0.978,Nao,Ativado,20.63,Telemetria sistema,1,0,Nordeste
+R00167,2026-09-27 04:20:00,TV053,Noticias,7.53,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,24.12,Metadados de eventos,4,0,Centro-Oeste
+R00672,2026-09-07 09:50:00,TV040,Filmes,9.07,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,16.08,Telemetria sistema,0,0,Centro-Oeste
+R00242,2026-10-05 17:40:00,TV045,Noticias,3.92,Ativo,Dispositivo Bluetooth,Silencio,,Sim,Desativado,50.76,Telemetria sistema,1,0,Norte
+R00415,2026-09-07 21:10:00,TV009,ESPOrtes,9.28,Ativo,Soundbar,Latido,0.800,Indeterminado,Desativado,0.00,Sem envio observado,0,0,Sul
+R00093,2026-09-28 22:10:00,TV019,Noticias,6.14,Ativo,TV,Latido,0.973,Sim,Desativado,40.68,Telemetria sistema,2,0,Sul
+R00539,2026-09-07 06:00:00,TV042,,7.19,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,4.93,Publicidade,2,0,Sudeste
+R00833,2026-09-23 14:30:00,TV026,Esportes,6.71,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,34.48,Metadados de eventos,2,1,Sudeste
+R00169,2026-10-04 03:10:00,TV039,Esportes,5.11,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,3,2,Sudeste
+R00128,2026-09-09 00:20:00,TV041,Filmes,9.82,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,31.10,Telemetria sistema,2,0,Sudeste
+R00478,2026-09-27 11:00:00,TV037,Musica,10.00,Ativo,TV,Ruido,0.819,Sim,Ativado,36.20,ACR/conteudo,1,1,Sudeste
+R00806,2026-09-19 21:00:00,TV013,Esportes,5.48,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,1,0,Sul
+R00499,2026-09-30 06:30:00,TV060,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,10.11,Publicidade,4,0,Norte
+R00797,2026-09-22 14:50:00,TV036,Jogos,3.31,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,12.32,Metadados de eventos,3,1,Nordeste
+R00276,2026-09-11 18:30:00,TV054,Filmes,6.18,Ativo,TV,Ruido,0.704,Sim,Desativado,19.79,Publicidade,2,0,Centro-Oeste
+R00778,2026-09-22 00:10:00,TV052,Infantil,8.82,Inativo,Nao se aplica,Nao se aplica,,,Desativado,12.76,Publicidade,1,0,Sudeste
+R00860,2026-09-10 20:40:00,TV027,Series,5.63,Ativo,TV,Ruido,0.849,Nao,Desativado,32.70,Publicidade,1,0,Nordeste
+R00569,2026-09-05 23:20:00,TV004,Esportes,7.33,Ativo,TV,Silencio,,Sim,Ativado,28.00,Telemetria sistema,0,0,Nordeste
+R00680,2026-09-10 06:50:00,TV045,Musica,10.00,Ativo,Soundbar,Latido,0.826,Sim,Desativado,-28.33,ACR/conteudo,1,0,Norte
+R00164,2026-09-05 00:10:00,TV005,Outros,2.78,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,26.97,ACR/conteudo,2,0,Nordeste
+R00219,2026-10-03 09:30:00,TV039,Musica,2.85,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,1800.00,Sem envio observado,2,0,Sudeste
+R00212,2026-09-21 21:40:00,TV005,Series,10.00,Ativo,TV,Silencio,,Sim,Desativado,48.32,Telemetria sistema,4,0,Nordeste
+R00608,2026-09-23 23:20:00,TV019,Series,6.09,Ativo,TV,Outro,0.846,Sim,Desativado,130.25,Publicidade,2,0,Sul
+R00336,2026-10-04 03:00:00,TV015,Infantil,7.89,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,1,1,Norte
+R00216,2026-09-06 16:30:00,TV048,Filmes,4.94,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,28.26,Publicidade,2,0,Sudeste
+R00364,2026-10-10 09:50:00,TV059,Jogos,8.88,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,43.86,Metadados de eventos,3,1,Nordeste
+R00678,2026-09-19 09:30:00,TV019,Esportes,8.59,Ativo,TV,Choro,0.864,Sim,Desativado,16.77,Telemetria sistema,2,0,Sul
+R00772,2026-09-06 15:50:00,TV003,Musica,6.38,Ativo,TV,Ruido,0.959,Sim,Desativado,56.61,ACR/conteudo,2,0,Sul
+R00363,2026-10-02 12:10:00,TV002,Noticias,8.46,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,17.23,Telemetria sistema,0,0,Sudeste
+R00188,2026-09-01 18:20:00,TV013,Filmes,6.78,Ativo,TV,Choro,0.749,Nao,Ativado,23.43,Telemetria sistema,2,1,Sul
+R00820,2026-09-24 07:00:00,TV058,Filmes,8.65,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,62.07,Publicidade,2,0,Sul
+R00411,2026-10-01 19:50:00,TV003,Filmes,4.87,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,11.25,Publicidade,0,0,Sul
+R00690,2026-09-07 17:30:00,TV026,Esportes,6.51,Ativo,Soundbar,Silencio,,Nao,Desativado,51.04,Telemetria sistema,0,0,Sudeste
+R00861,2026-09-11 00:50:00,,Series,4.59,Ativo,TV,Latido,0.939,Nao,Ativado,35.75,Telemetria sistema,1,1,Sul
+R00045,2026-09-16 15:40:00,TV021,Filmes,9.53,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,0,0,Sudeste
+R00192,2026-10-10 16:40:00,TV044,Filmes,6.88,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,2,1,Nordeste
+R00782,2026-09-15 21:50:00,TV029,Jogos,,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,0.00,Sem envio observado,3,2,Sudeste
+R00021,2026-10-05 03:10:00,TV022,Filmes,4.68,Ativo,TV,Ruido,0.706,Nao,Ativado,16.84,ACR/conteudo,2,0,Nordeste
+R00791,2026-09-06 17:20:00,TV047,Musica,9.43,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,16.29,Publicidade,4,0,Sudeste
+R00229,2026-09-28 16:20:00,TV042,Infantil,4.85,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,1,1,Sudeste
+R00438,2026-09-21 02:30:00,TV028,Musica,8.77,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,,Publicidade,2,0,Sul
+R00864,2026-09-03 18:40:00,TV018,Outros,8.80,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,62.74,Metadados de eventos,4,0,Sudeste
+R00519,2026-09-16 13:00:00,TV028,Filmes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,12.99,Publicidade,0,0,Sul
+R00133,2026-09-05 05:10:00,TV030,Esportes,7.75,Ativo,TV,Silencio,,Sim,Ativado,0.00,Sem envio observado,3,1,Nordeste
+R00780,2026-10-06 19:10:00,TV044,Jogos,7.62,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,10.11,Telemetria sistema,0,0,Nordeste
+R00606,2026-09-26 05:50:00,TV008,Esportes,6.42,Ativo,TV,Outro,0.989,Sim,Desativado,18.30,Telemetria sistema,4,0,Sudeste
+R00209,2026-09-11 17:50:00,TV050, infantil ,5.54,Ativo,TV,Voz,0.873,Sim,Desativado,0.00,Sem envio observado,2,0,Norte
+R00408,2026-09-22 20:00:00,TV017,Outros,8.72,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,34.50,Telemetria sistema,3,1,Sudeste
+R00266,2026-09-01 06:30:00,TV023,Musica,5.73,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,11.31,ACR/conteudo,0,0,Nordeste
+R00086,2026-10-08 23:00:00,TV057,Noticias,4.36, Inativo ,Nao se aplica,Nao se aplica,,Nao,Ativado,8.60,Telemetria sistema,1,1,Nordeste
+R00550,2026-09-21 06:30:00,TV051,Series,7.78,Ativo,Soundbar,Voz,0.624,Sim,Desativado,28.30,Publicidade,2,0,Centro-Oeste
+R00285,2026-09-14 00:30:00,TV007,Series,6.45,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,38.29,ACR/conteudo,2,0,Sudeste
+R00273,2026-09-09 15:00:00,TV029,Noticias,3.88,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,0.00,Sem envio observado,2,1,Sudeste
+R00649,2026-09-16 05:20:00,TV035,Esportes,6.44,ativo,Nao se aplica,Nao se aplica,,Nao,Ativado,49.75,Publicidade,0,0,Nordeste
+R00083,2026-09-06 14:50:00,TV031,Series,4.26,Ativo,TV,Voz,0.985,Sim,Desativado,40.55,Telemetria sistema,2,1,Centro-Oeste
+R00754,2026-10-03 20:40:00,TV008,Series,8.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,29.41,Telemetria sistema,0,0,Sudeste
+R00062,2026-09-23 09:00:00,TV009,Series,6.43,Ativo,TV,Ruido,0.665,Indeterminado,Desativado,0.00,Sem envio observado,3,4,Sul
+R00010,2026-10-03 13:30:00,TV009,Esportes,2.25,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,3.31,Metadados de eventos,1,0,Sul
+R00311,2026-09-23 10:00:00,TV049,Infantil,7.96,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,3,0,Nordeste
+R00490,2026-09-08 00:30:00,TV041,Esportes,7.41,Ativo,Soundbar,Silencio,,Nao,Desativado,16.47,ACR/conteudo,4,0,Sudeste
+R00475,2026-09-08 10:00:00,TV027,Esportes,6.37,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,27.72,Telemetria sistema,0,0,Nordeste
+R00016,2026-09-23 11:20:00,TV030,Filmes,7.18,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,62.67,Telemetria sistema,2,0,Nordeste
+R00183,2026-09-24 05:20:00,TV005,Esportes,4.48,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,24.51,Metadados de eventos,2,0,Nordeste
+R00628,2026-10-08 20:40:00,TV027,Esportes,5.30,Ativo,TV,Outro,0.674,Nao,Desativado,23.80,Publicidade,2,0,Nordeste
+R00804,2026-09-20 21:40:00,TV003,Series,7.75,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,25.99,Telemetria sistema,3,0,Sul
+R00377,2026-09-01 21:50:00,TV035,Esportes,7.84,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,17.50,ACR/conteudo,3,0,Nordeste
+R00769,2026-09-08 07:40:00,TV059,Series,8.56,Ativo,TV,Ruido,0.555,Sim,Desativado,47.17,Publicidade,2,0,Nordeste
+R00713,2026-09-30 04:10:00,TV028,Filmes,6.12,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,62.87,Publicidade,4,1,Sul
+R00389,2026-10-01 22:50:00,TV045,Series,6.87,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,54.11,Telemetria sistema,2,0,Norte
+R00488,2026-10-03 00:30:00,TV031,Noticias,7.06,Ativo,Dispositivo Bluetooth,Outro,0.936,Sim,Desativado,0.00,Sem envio observado,4,0,Centro-Oeste
+R00286,2026-09-13 17:50:00,TV032,Infantil,7.12,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,38.92,Telemetria sistema,3,0,Centro-Oeste
+R00663,2026-10-03 21:30:00,TV032,Filmes,6.84,Ativo,TV,Silencio,,Sim,Desativado,24.73,Metadados de eventos,3,0,Centro-Oeste
+R00046,2026-10-03 22:40:00,TV008,Filmes,10.00,Ativo,Dispositivo Bluetooth,Silencio,,Sim,Desativado,17.52,Telemetria sistema,2,0,Sudeste
+R00687,2026-10-08 20:30:00,TV047,Series,7.67,Ativo,TV,Ruido,0.562,Sim,Desativado,46.13,Metadados de eventos,2,1,Sudeste
+R00131,2026-09-10 06:20:00,TV032,Noticias,9.66,Ativo,TV,Outro,0.827,Sim,Desativado,92.47,Publicidade,2,0,Centro-Oeste
+R00604,2026-10-07 00:10:00,TV007,Filmes,5.69,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,35.49,Telemetria sistema,2,0,Sudeste
+R00069,2026-09-19 08:10:00,TV042,Series,8.27,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,,Telemetria sistema,2,0,Sudeste
+R00506,2026-09-13 18:30:00,TV060,Esportes,8.12,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,50.45,ACR/conteudo,0,0,Norte
+R00432,2026-09-24 21:30:00,TV015,Filmes,7.68,Ativo,Soundbar,Ruido,0.826,Nao,Ativado,65.36,Publicidade,3,0,Norte
+R00703,2026-10-04 02:50:00,TV007,Filmes,4.23,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,4,0,Sudeste
+R00235,2026-09-11 09:30:00,TV045,Noticias,9.04,Ativo,TV,Voz,0.970,Sim,Desativado,45.85,Publicidade,0,0,Norte
+R00607,2026-09-22 07:10:00,TV041,Noticias,5.08,Ativo,Soundbar,Latido,0.848,Nao,Desativado,38.52,ACR/conteudo,3,0,Sudeste
+R00045,2026-09-16 15:40:00,TV021,Filmes,9.53,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,0,0,Sudeste
+R00283,2026-09-25 06:20:00,TV037,Series,5.37,Ativo,TV,Latido,0.796,Sim,Ativado,0.00,Sem envio observado,2,0,Sudeste
+R00625,2026-09-11 08:50:00,TV006,Filmes,6.61,Ativo,TV,Latido,0.972,Sim,Desativado,29.84,Telemetria sistema,0,0,Nordeste
+R00319,2026-10-08 10:50:00,TV029,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,2600.00,Publicidade,1,1,Sudeste
+R00151,2026-09-25 01:40:00,TV058,Filmes,7.56,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,43.48,ACR/conteudo,2,1,Sul
+R00193,2026-09-15 01:40:00,TV005,Outros,6.93,Ativo,TV,Silencio,,Sim,Desativado,43.24,Telemetria sistema,1,0,Nordeste
+R00094,2026-09-02 11:20:00,TV006,Filmes,6.15,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,11.64,ACR/conteudo,2,0,Nordeste
+R00137,2026-09-25 20:50:00,TV025,Noticias,7.18,Ativo,TV,Choro,0.790,Sim,Desativado,7.91,ACR/conteudo,3,2,Centro-Oeste
+R00422,2026-10-04 11:50:00,TV001,Filmes,8.38,Ativo,TV,Ruido,0.644,Sim,Desativado,28.70,ACR/conteudo,0,0,Sul
+R00029,2026-10-01 16:30:00,TV053,Noticias,6.52,Ativo,TV,Voz,0.841,Sim,Desativado,45.13,Telemetria sistema,1,0,Centro-Oeste
+R00698,2026-09-03 18:30:00,TV057,Jogos,4.53,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,19.45,Telemetria sistema,2,0,Nordeste
+R00743,2026-09-06 02:40:00,TV030,Esportes,5.01,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,12.57,Publicidade,3,0,Nordeste
+R00764,2026-09-14 00:10:00,TV004,Filmes,4.74,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,15.39,Publicidade,2,0,Nordeste
+R00853,2026-10-05 04:40:00,TV054,Noticias,8.64,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,62.33,Publicidade,3,0,Centro-Oeste
+R00040,2026-09-01 02:40:00,TV026,Outros,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,61.67,ACR/conteudo,0,0,Sudeste
+R00839,2026-09-22 08:10:00,TV004,Esportes,3.94,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,30.06,Publicidade,2,0,Nordeste
+R00272,2026-10-08 10:10:00,TV019,Filmes,8.04,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,0,Sul
+R00048,2026-09-17 05:10:00,TV002,Esportes,,Ativo,TV,Choro,0.675,Nao,Ativado,18.03,Publicidade,1,0,Sudeste
+R00777,2026-10-05 23:30:00,TV014,Filmes,6.16,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,10.20,Telemetria sistema,2,0,Nordeste
+R00268,2026-09-09 09:20:00,TV055,Noticias,8.13,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,20.29,ACR/conteudo,2,0,Nordeste
+R00449,2026-09-28 17:10:00,TV059,Series,7.86,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,31.77,Publicidade,2,0,Nordeste
+R00196,2026-09-16 04:50:00,TV028,Series,5.86,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,22.08,ACR/conteudo,3,1,Sul
+R00560,2026-09-03 15:30:00,TV029,Series,7.59,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,28.41,Telemetria sistema,2,1,Sudeste
+R00391,2026-09-01 09:30:00,TV035,Filmes,6.66,ativo,Nao se aplica,Nao se aplica,,Nao,Ativado,56.79,Publicidade,0,0,Nordeste
+R00721,2026-09-08 08:50:00,TV048,Series,8.20,Ativo,TV,Silencio,,Sim,Ativado,6.27,Publicidade,3,0,Sudeste
+R00100,2026-09-11 22:50:00,TV040,Esportes,7.42,Ativo,TV,Voz,0.633,Sim,Desativado,47.49,ACR/conteudo,2,0,Centro-Oeste
+R00044,2026-09-12 05:00:00,TV003,Noticias,7.04,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,43.97,ACR/conteudo,2,0,Sul
+R00484,2026-09-23 09:20:00,TV047,Outros,6.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,58.62,Publicidade,4,0,Sudeste
+R00626,2026-09-30 20:30:00,TV014,Series,5.51,Ativo,Soundbar,Outro,0.619,Nao,Ativado,0.00,Sem envio observado,3,0,Nordeste
+R00808,2026-09-07 00:30:00,TV008,Infantil,6.34,Ativo,Soundbar,Choro,0.920,Sim,Desativado,41.66,Telemetria sistema,2,0,Sudeste
+R00866,2026-09-24 02:00:00,TV060,Noticias,8.49,Ativo,TV,Outro,0.613,Indeterminado,Desativado,0.00,Sem envio observado,2,0,Norte
+R00837,2026-09-07 23:10:00,TV042,Outros,5.62,Ativo,TV,Voz,0.785,Sim,Desativado,23.07,Publicidade,2,0,Sudeste
+R00817,2026-10-06 00:20:00,TV003,Filmes,8.32,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,19.50,ACR/conteudo,0,0,Sul
+R00684,2026-09-04 03:10:00,,Jogos,4.60,Ativo,TV,Latido,0.561,Indeterminado,Desativado,16.30,ACR/conteudo,3,0,Nordeste
+R00675,2026-10-04 06:20:00,TV039,Outros,9.12,Ativo,TV,Outro,0.777,Sim,Ativado,9200.00,Telemetria sistema,1,0,Sudeste
+R00655,2026-10-07 03:20:00,TV005,Noticias,7.18,Ativo,TV,Voz,0.706,Sim,Desativado,7.87,Metadados de eventos,3,0,Nordeste
+R00423,2026-09-23 05:20:00,TV044,Series,3.46,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,20.83,Metadados de eventos,3,0,Nordeste
+R00691,2026-09-01 16:10:00,TV039,Infantil,2.45,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,-67.11,Publicidade,3,0,Sudeste
+R00332,2026-09-14 17:00:00,TV007,Series,5.83,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,81.50,Publicidade,0,0,Sudeste
+R00862,2026-09-27 02:10:00,TV034,Filmes,6.06,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,24.93,ACR/conteudo,2,0,Nordeste
+R00308,2026-09-20 08:40:00,TV048,Series,6.74,Ativo,Soundbar,Ruido,0.711,Sim,Ativado,42.99,Telemetria sistema,2,0,Sudeste
+R00335,2026-10-09 14:50:00,TV009,Filmes,5.95,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,17.96,Publicidade,3,0,Sul
+R00659,2026-09-02 05:40:00,TV014,Series,7.11,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,34.03,Metadados de eventos,4,0,Nordeste
+R00766,2026-09-27 14:30:00,TV046,Filmes,,Ativo,TV,Silencio,,Nao,Ativado,27.34,ACR/conteudo,3,0,Sudeste
+R00349,2026-09-28 00:00:00,TV016,Noticias,5.32,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,28.33,Publicidade,1,0,Sudeste
+R00712,2026-10-05 13:20:00,TV057,,8.35,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,8.25,ACR/conteudo,4,1,Nordeste
+R00525,2026-09-03 14:00:00,TV009,Noticias,78.63,Ativo,TV,Latido,0.841,Indeterminado,Desativado,34.37,Metadados de eventos,1,0,Sul
+R00668,2026-09-30 00:50:00,TV011,Esportes,5.89,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,1,0,Nordeste
+R00759,2026-09-18 00:30:00,TV025,Series,9.03,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,1,0,Centro-Oeste
+R00160,2026-09-11 07:00:00,TV042,noticias,6.27,Ativo,Soundbar,Silencio,,Sim,Desativado,26.28,Telemetria sistema,1,0,Sudeste
+R00578,2026-09-23 20:40:00,TV038,Series,2.96,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,22.83,Telemetria sistema,3,1,Nordeste
+R00867,2026-09-16 23:10:00,TV059,Series,7.09,Ativo,TV,Ruido,0.855,Sim,Desativado,17.98,Publicidade,0,0,Nordeste
+R00214,2026-09-07 03:50:00,TV026,Jogos,7.39,Ativo,TV,Latido,0.751,Nao,Desativado,19.17,Telemetria sistema,2,0,Sudeste
+R00324,2026-09-16 06:10:00,TV044,Filmes,4.98,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,3,0,Nordeste
+R00528,2026-09-01 18:30:00,TV059,Musica,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,1800.00,Sem envio observado,3,3,Nordeste
+R00284,2026-09-25 12:40:00,TV052,Noticias,8.16,Ativo,TV,Latido,0.714,Nao,Desativado,20.80,Publicidade,1,0,Sudeste
+R00627,2026-09-23 06:00:00,TV025,Noticias,5.55,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,97.70,Publicidade,2,0,Centro-Oeste
+R00763,2026-09-05 02:20:00,TV005,Series,3.87,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,,ACR/conteudo,3,1,Nordeste
+R00622,2026-09-25 03:00:00,TV013,Series,8.67,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,36.74,Telemetria sistema,3,1,Sul
+R00492,2026-09-01 16:30:00,TV041,Filmes,7.83,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,31.10,Metadados de eventos,1,0,Sudeste
+R00226,2026-10-06 17:20:00,TV036,Series,4.87,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,16.08,Telemetria sistema,2,0,Nordeste
+R00233,2026-09-11 12:00:00,TV055,Filmes,4.57,Ativo,TV,Latido,0.613,Sim,Desativado,40.19,ACR/conteudo,2,0,Nordeste
+R00067,2026-09-27 17:20:00,TV003,Series,2.53,Ativo,TV,Choro,0.952,Sim,Desativado,0.00,Sem envio observado,1,0,Sul
+R00340,2026-09-26 04:20:00,TV014,Noticias,9.31,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,3,0,Nordeste
+R00575,2026-09-06 09:10:00,TV031, FILMES ,4.09,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,0,0,Centro-Oeste
+R00063,2026-10-08 10:30:00,TV033,Filmes,7.92,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,13.73,ACR/conteudo,1,0,Sul
+R00711,2026-09-29 11:30:00,TV011,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,25.33,ACR/conteudo,1,1,Nordeste
+R00475,2026-09-08 10:00:00,TV027,Esportes,6.37,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,27.72,Telemetria sistema,0,0,Nordeste
+R00731,2026-09-18 19:40:00,TV020,Musica,10.00,Ativo,TV,Choro,0.890,Sim,Desativado,12.09,ACR/conteudo,3,2,Sudeste
+R00463,2026-10-06 04:10:00,TV010,Infantil,4.58,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,17.92,Publicidade,0,0,Sudeste
+R00341,2026-09-30 01:10:00,TV030,Series,5.05,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,51.32,Publicidade,1,0,Nordeste
+R00849,2026-09-26 02:10:00,TV054,Esportes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,37.17,Publicidade,1,0,Centro-Oeste
+R00658,2026-09-16 17:50:00,TV050,,8.08,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,48.36,Telemetria sistema,4,0,Norte
+R00318,2026-10-10 17:40:00,TV040,Filmes,4.29,Ativo,TV,Latido,0.921,Sim,Desativado,61.61,Metadados de eventos,2,0,Centro-Oeste
+R00605,2026-09-30 13:20:00,TV037,Noticias,8.31,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,21.14,Telemetria sistema,0,0,Sudeste
+R00447,2026-10-01 10:40:00,TV053,Noticias,9.09,Ativo,TV,Ruido,0.835,Sim,Desativado,-18.81,Telemetria sistema,3,0,Centro-Oeste
+R00508,2026-10-03 15:50:00,TV041,Jogos,6.46,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,58.66,Telemetria sistema,2,5,Sudeste
+R00368,2026-09-22 12:50:00,TV054,Series,7.27,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,14.92,ACR/conteudo,2,1,Centro-Oeste
+R00543,2026-09-23 17:30:00,TV023,Filmes,2.28,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,76.93,Metadados de eventos,1,1,Nordeste
+R00435,2026-09-03 10:20:00,TV031,Esportes,6.72,Ativo,TV,Silencio,,Sim,Desativado,37.42,ACR/conteudo,0,0,Centro-Oeste
+R00572,2026-09-21 00:00:00,TV015,Esportes,1.66,Ativo,TV,Voz,0.968,Nao,Ativado,26.44,Metadados de eventos,1,0,Norte
+R00855,2026-09-23 12:50:00,TV053,Noticias,7.30,Ativo,Soundbar,Choro,0.567,Sim,Desativado,26.34,Telemetria sistema,2,0,Centro-Oeste
+R00729,2026-09-23 06:50:00,TV051,Noticias,10.00,Ativo,TV,Ruido,0.699,Sim,Desativado,43.08,Telemetria sistema,1,0,Centro-Oeste
+R00574,2026-10-09 08:50:00,TV055,Series,8.45,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,24.66,Telemetria sistema,1,0,Nordeste
+R00634,2026-09-05 07:30:00,TV024,Filmes,7.41,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,57.56,Telemetria sistema,2,0,Nordeste
+R00875,2026-09-08 13:50:00,TV019,Series,6.68,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,20.37,ACR/conteudo,2,0,Sul
+R00652,2026-09-16 00:00:00,TV011,Noticias,6.61,Ativo,Soundbar,Silencio,,Sim,Ativado,22.00,ACR/conteudo,0,0,Nordeste
+R00631,2026-09-14 12:50:00,TV058,Outros,4.40,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,34.72,Publicidade,0,0,Sul
+R00811,2026-10-06 06:10:00,TV014,Filmes,4.16,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,29.96,Publicidade,2,1,Nordeste
+R00502,2026-09-13 03:20:00,TV005,Series,5.59,Ativo,Dispositivo Bluetooth,Silencio,,Sim,Desativado,53.38,ACR/conteudo,2,0,Nordeste
+R00310,2026-09-11 03:30:00,TV009,Infantil,8.12,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,27.39,Telemetria sistema,2,0,Sul
+R00594,2026-09-20 00:10:00,TV012,Esportes,9.19,Ativo,TV,Voz,0.618,Nao,Ativado,0.00,Sem envio observado,1,0,Norte
+R00532,2026-10-05 19:10:00,TV017,Esportes,4.42,ativo,Nao se aplica,Nao se aplica,,Sim,Ativado,62.12,ACR/conteudo,2,1,Sudeste
+R00640,2026-09-01 09:20:00,TV001,Noticias,7.38,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,49.00,Telemetria sistema,4,1,Sul
+R00486,2026-10-04 05:30:00,TV019,Filmes,8.23,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,40.65,Telemetria sistema,3,0,Sul
+R00821,2026-10-02 09:10:00,TV036,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,29.97,Metadados de eventos,3,2,Nordeste
+R00807,2026-09-01 17:00:00,TV059,Musica,7.99,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,19.13,Telemetria sistema,0,0,Nordeste
+R00501,2026-09-17 02:20:00,TV024,Outros,9.57,Ativo,TV,Outro,0.970,Nao,Ativado,5.60,Metadados de eventos,1,0,Nordeste
+R00715,2026-09-16 08:50:00,TV010,Series,7.68,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,22.69,TELEMETRIA SISTEMA,1,0,Sudeste
+R00833,2026-09-23 14:30:00,TV026,Esportes,6.71,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,34.48,Metadados de eventos,2,1,Sudeste
+R00049,2026-09-05 10:40:00,TV056,Infantil,4.30,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,18.12,Telemetria sistema,2,1,Centro-Oeste
+R00292,2026-09-17 12:20:00,TV021,Filmes,9.99,Ativo,TV,Silencio,,Sim,Desativado,46.93,ACR/conteudo,3,0,Sudeste
+R00018,2026-10-07 02:40:00,TV014,Esportes,6.09,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,2,0,Nordeste
+R00674,2026-09-27 17:00:00,TV003,Filmes,-4.70,Ativo,TV,Silencio,,Sim,Desativado,16.75,Publicidade,3,0,Sul
+R00357,2026-09-20 08:50:00,TV027,Esportes,2.83,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,47.74,Telemetria sistema,1,0,Nordeste
+R00459,2026-09-01 07:20:00,TV039,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,42.67,Publicidade,3,0,Sudeste
+R00515,2026-09-15 05:40:00,TV045,Noticias,9.06,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,9.00,Telemetria sistema,2,0,Norte
+R00760,2026-10-08 07:20:00,TV034,Series,8.84,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,,Telemetria sistema,1,0,Nordeste
+R00159,2026-09-07 21:30:00,TV008,Esportes,7.10,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,28.85,Telemetria sistema,3,1,Sudeste
+R00650,2026-09-28 06:10:00,TV026,Noticias,,Ativo,TV,Outro,0.559,Nao,Desativado,18.77,Telemetria sistema,3,1,Sudeste
+R00500,2026-10-08 04:20:00,TV016,Series,8.89, Inativo ,Nao se aplica,Nao se aplica,,Sim,Ativado,25.02,Publicidade,1,1,Sudeste
+R00202,2026-09-19 20:40:00,TV020,Jogos,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,22.79,Publicidade,1,0,Sudeste
+R00127,2026-09-18 11:20:00,TV043,Noticias,8.10,Ativo,TV,Voz,0.771,Sim,Desativado,13.17,Publicidade,0,0,Sudeste
+R00239,2026-09-18 16:30:00,,Filmes,6.18,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,16.82,ACR/conteudo,3,0,Sudeste
+R00257,2026-09-14 13:20:00,TV039,Filmes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,9200.00,Publicidade,0,0,Sudeste
+R00767,2026-09-21 18:00:00,TV006,Outros,6.73,Ativo,Dispositivo Bluetooth,Outro,0.862,Sim,Desativado,0.00,Sem envio observado,1,1,Nordeste
+R00440,2026-09-25 05:20:00,TV017,Esportes,-1.37,Ativo,TV,Outro,0.729,Sim,Ativado,7.35,Telemetria sistema,1,0,Sudeste
+R00798,2026-10-08 19:30:00,TV060,Esportes,,Ativo,Soundbar,Silencio,,Indeterminado,Desativado,71.33,Publicidade,1,0,Norte
+R00452,2026-09-18 13:20:00,TV001,Infantil,5.94,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,10.58,Telemetria sistema,2,1,Sul
+R00476,2026-09-12 04:40:00,TV025,Musica,1.55,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,19.60,Telemetria sistema,3,0,Centro-Oeste
+R00732,2026-09-05 14:20:00,TV020,Esportes,7.33,Ativo,Soundbar,Silencio,,Sim,Desativado,16.78,Publicidade,4,0,Sudeste
+R00088,2026-09-29 21:00:00,TV026,Jogos,5.16,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,27.18,ACR/conteudo,2,0,Sudeste
+R00697,2026-09-15 07:30:00,TV058,Series,7.28,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,27.92,Metadados de eventos,4,1,Sul
+R00468,2026-10-06 15:40:00,TV042,Esportes,7.66,Ativo,Dispositivo Bluetooth,Voz,0.910,Sim,Desativado,49.68,ACR/conteudo,4,0,Sudeste
+R00114,2026-09-08 19:50:00,TV049,Esportes,7.81,Ativo,TV,Silencio,,Sim,Desativado,82.57,Metadados de eventos,2,2,Nordeste
+R00843,2026-09-30 14:30:00,TV043,Filmes,6.52,Ativo,TV,Latido,0.742,Sim,Desativado,20.14,ACR/conteudo,2,0,Sudeste
+R00444,2026-09-11 12:00:00,TV015,Jogos,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,12.31,Metadados de eventos,2,0,Norte
+R00253,2026-09-13 01:30:00,TV020,Series,8.60,Ativo,Dispositivo Bluetooth,Latido,0.591,Sim,Desativado,35.30,ACR/conteudo,2,0,Sudeste
+R00072,2026-09-29 20:20:00,TV019,Noticias,6.85,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,1,0,Sul
+R00505,2026-09-17 17:00:00,TV048,Series,9.22,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,3,0,Sudeste
+R00799,2026-09-03 22:50:00,TV025,Esportes,6.87,Ativo,Soundbar,Silencio,,Sim,Desativado,17.44,ACR/conteudo,3,0,Centro-Oeste
+R00413,2026-10-09 21:20:00,TV032,Jogos,7.04,Ativo,TV,Voz,0.869,Sim,Desativado,9.27,Metadados de eventos,0,0,Centro-Oeste
+R00728,2026-09-08 07:00:00,TV005,Infantil,6.13,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,13.28,Telemetria sistema,3,0,Nordeste
+R00386,2026-09-06 04:40:00,TV052,Esportes,3.77,Ativo,TV,Silencio,,Nao,Desativado,34.61,Publicidade,2,0,Sudeste
+R00306,2026-09-06 19:20:00,TV015,Esportes,3.67,Ativo,TV,Silencio,,Nao,Ativado,20.47,ACR/conteudo,4,0,Norte
+R00706,2026-09-22 09:30:00,TV006,Series,6.56,Ativo,TV,Choro,0.865,Sim,Desativado,20.84,Publicidade,1,0,Nordeste
+R00842,2026-09-19 05:20:00,TV038,Jogos,6.86,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,61.75,Telemetria sistema,0,0,Nordeste
+R00756,2026-09-06 06:10:00,TV037,Esportes,,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,21.35,Telemetria sistema,2,0,Sudeste
+R00611,2026-09-12 05:30:00,TV020,Filmes,3.38,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,69.71,Publicidade,1,0,Sudeste
+R00522,2026-09-08 07:50:00,TV019,Filmes,3.77,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,34.78,Metadados de eventos,0,0,Sul
+R00616,2026-09-10 18:20:00,TV046,,4.98,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,29.82,Metadados de eventos,1,0,Sudeste
+R00834,2026-10-03 00:10:00,TV037,Series,8.43,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,25.10,ACR/conteudo,2,0,Sudeste
+R00082,2026-09-06 03:10:00,TV047,Esportes,7.93,Ativo,TV,Voz,0.701,Sim,Desativado,20.41,ACR/conteudo,3,0,Sudeste
+R00015,2026-09-06 17:10:00,TV058,Infantil,6.55,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,13.68,Metadados de eventos,1,0,Sul
+R00446,2026-09-12 10:00:00,TV003,Filmes,9.27,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,3,0,Sul
+R00250,2026-09-06 05:30:00,TV017,Esportes,5.89,Ativo,TV,Ruido,0.701,Sim,Ativado,17.78,acr/conteudo,3,0,Sudeste
+R00685,2026-10-09 05:50:00,TV050,Musica,7.29,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,3,0,Norte
+R00076,2026-09-28 03:20:00,TV022,Musica,8.13,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,10.70,Telemetria sistema,4,2,Nordeste
+R00053,2026-10-04 01:40:00,TV042, FILMES ,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,12.50,Metadados de eventos,4,1,Sudeste
+R00462,2026-10-08 13:00:00,TV002,Esportes,6.85,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,,Telemetria sistema,1,0,Sudeste
+R00152,2026-09-03 01:20:00,TV046,Musica,7.52,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,93.42,Publicidade,3,0,Sudeste
+R00747,2026-10-01 04:30:00,TV008,Esportes,8.59,Ativo,TV,Outro,0.941,Sim,Desativado,10.19,Telemetria sistema,1,0,Sudeste
+R00145,2026-09-18 05:00:00,,Esportes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,22.73,ACR/conteudo,3,0,Nordeste
+R00163,2026-09-20 17:40:00,TV050,Musica,9.68,Ativo,TV,Voz,0.760,Sim,Desativado,72.12,Publicidade,2,0,Norte
+R00535,2026-10-06 06:50:00,TV012,Noticias,7.04,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,9200.00,Telemetria sistema,1,0,Norte
+R00673,2026-09-23 12:40:00,TV023,Series,8.04,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,0,Nordeste
+R00430,2026-09-20 05:10:00,TV017,Infantil,7.31,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,33.73,Publicidade,2,0,Sudeste
+R00256,2026-09-25 23:10:00,TV008,Series,79.04,Ativo,Soundbar,Latido,0.592,Sim,Desativado,0.00,Sem envio observado,1,0,Sudeste
+R00258,2026-09-02 16:30:00,TV056,Jogos,7.49,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,1,0,Centro-Oeste
+R00269,2026-09-22 12:50:00,,Series,8.95,Ativo,TV,Silencio,,Nao,Desativado,28.91,ACR/conteudo,3,0,Sudeste
+R00530,2026-09-15 18:10:00,TV029,Noticias,10.00,Ativo,TV,Ruido,0.953,Indeterminado,Desativado,16.29,Metadados de eventos,4,1,Sudeste
+R00623,2026-09-17 16:40:00,TV008,Filmes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,54.79,Metadados de eventos,4,0,Sudeste
+R00653,2026-10-05 18:10:00,TV039,Esportes,5.15,Ativo,Dispositivo Bluetooth,Voz,0.707,Sim,Ativado,40.58,Publicidade,2,0,Sudeste
+R00350,2026-09-02 04:00:00,TV008,Noticias,9.21,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,19.72,ACR/conteudo,2,1,Sudeste
+R00369,2026-10-04 03:50:00,TV045,Esportes,8.52,Ativo,TV,Voz,0.890,Sim,Desativado,24.70,ACR/conteudo,2,2,Norte
+R00162,2026-09-18 12:20:00,TV003,Filmes,6.04,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,40.33,Publicidade,1,0,Sul
+R00181,2026-09-12 21:00:00,TV037,Musica,3.98,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,4,1,Sudeste
+R00099,2026-09-15 01:00:00,TV021,Filmes,10.00,Ativo,TV,Outro,0.671,Sim,Desativado,23.49,Telemetria sistema,0,0,Sudeste
+R00153,2026-10-03 21:00:00,TV003,Filmes,4.47,Ativo,TV,Ruido,0.971,Sim,Desativado,12.35,Telemetria sistema,4,0,Sul
+R00223,2026-09-20 05:20:00,TV054,Musica,5.91,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,24.52,ACR/conteudo,3,2,Centro-Oeste
+R00028,2026-09-29 05:20:00,TV019,Filmes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,35.14,Telemetria sistema,2,0,Sul
+R00635,2026-10-01 14:30:00,TV037,Filmes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,38.38,Publicidade,0,0,Sudeste
+R00738,2026-10-04 08:40:00,TV036,Filmes,3.89,Ativo,TV,Outro,0.749,Indeterminado,Desativado,18.61,ACR/conteudo,2,0,Nordeste
+R00340,2026-09-26 04:20:00,TV014,Noticias,9.31,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,3,0,Nordeste
+R00682,2026-09-10 12:30:00,TV053,Noticias,9.36,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,77.97,Telemetria sistema,2,0,Centro-Oeste
+R00840,2026-10-06 09:10:00,TV014,Series,7.94,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,10.10,Telemetria sistema,2,0,Nordeste
+R00826,2026-10-01 02:20:00,TV039,Outros,5.00,Ativo,TV,Silencio,,Sim,Ativado,12.27,Publicidade,2,0,Sudeste
+R00642,2026-09-01 23:50:00,TV031,Esportes,9.74,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,41.56,Publicidade,0,0,Centro-Oeste
+R00696,2026-09-01 19:10:00,TV040,Infantil,8.12,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,3,0,Centro-Oeste
+R00027,2026-09-10 20:20:00,TV059,Series,6.91,Ativo,TV,Voz,0.710,Sim,Desativado,11.69,Publicidade,1,1,Nordeste
+R00220,2026-09-19 05:40:00,TV001,Outros,7.50,Ativo,TV,Outro,0.766,Sim,Desativado,54.56,Metadados de eventos,0,0,Sul
+R00774,2026-09-06 21:30:00,TV051,Series,,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,30.77,ACR/conteudo,1,1,Centro-Oeste
+R00503,2026-09-13 07:10:00,TV014,Musica,5.40,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,39.08,Publicidade,3,0,Nordeste
+R00362,2026-09-19 09:40:00,TV025,Infantil,7.43,Ativo,TV,Ruido,0.848,Sim,Desativado,0.00,Sem envio observado,3,2,Centro-Oeste
+R00746,2026-09-12 07:20:00,TV041,Musica,10.00,Ativo,TV,Ruido,0.823,Nao,Desativado,0.00,Sem envio observado,0,0,Sudeste
+R00467,2026-09-22 10:30:00,TV021,Jogos,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,54.60,Telemetria sistema,1,0,Sudeste
+R00541,2026-09-06 02:00:00,TV054,Noticias,8.23,Ativo,TV,Silencio,,Sim,Desativado,0.00,Sem envio observado,0,0,Centro-Oeste
+R00096,2026-09-25 20:20:00,TV056,Jogos,9.40,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,12.03,Publicidade,1,0,Centro-Oeste
+R00671,2026-09-20 19:40:00,TV031,Filmes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,3,0,Centro-Oeste
+R00669,2026-09-18 15:00:00,TV037,Filmes,2.32,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,16.53,Publicidade,2,0,Sudeste
+R00600,2026-09-19 18:50:00,TV031,Infantil,8.94,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,0,Centro-Oeste
+R00473,2026-09-25 19:20:00,TV056,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,15.79,Telemetria sistema,2,1,Centro-Oeste
+R00443,2026-10-09 05:10:00,TV029,Esportes,6.32,Ativo,Soundbar,Ruido,0.823,Indeterminado,Desativado,26.33,Metadados de eventos,0,0,Sudeste
+R00656,2026-09-26 13:00:00,TV009,Filmes,9.23,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,21.45,ACR/conteudo,2,0,Sul
+R00126,2026-10-08 05:10:00,TV054,Noticias,10.00,Ativo,TV,Silencio,,Sim,Desativado,20.00,Telemetria sistema,4,0,Centro-Oeste
+R00024,2026-09-12 16:20:00,TV037,Filmes,4.79,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,13.41,Telemetria sistema,0,0,Sudeste
+R00213,2026-09-13 07:30:00,TV001,Musica,9.00,Ativo,TV,Choro,0.840,Sim,Desativado,14.96,Metadados de eventos,4,0,Sul
+R00289,2026-09-27 05:50:00,TV059,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,42.92,Telemetria sistema,1,0,Nordeste
+R00057,2026-09-05 12:50:00,TV018,ESPOrtes,5.32,Ativo,TV,Voz,0.577,Nao,Ativado,25.47,Publicidade,0,0,Sudeste
+R00825,2026-09-12 07:30:00,TV029,Series,5.06,Ativo,TV,Outro,0.700,Indeterminado,Desativado,25.57,Publicidade,2,1,Sudeste
+R00841,2026-09-23 10:50:00,TV018,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,49.37,Publicidade,3,2,Sudeste
+R00794,2026-09-14 18:00:00,TV001,Filmes,6.73,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,137.78,Publicidade,2,0,Sul
+R00554,2026-09-23 22:40:00,TV023,Jogos,6.05,Ativo,TV,Silencio,,Sim,Desativado,68.64,Publicidade,0,0,Nordeste
+R00080,2026-09-04 07:50:00,TV050,Series,7.33,Ativo,TV,Latido,0.759,Sim,Desativado,0.00,Sem envio observado,0,0,Norte
+R00718,2026-09-28 11:10:00,TV054,Filmes,8.16,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,17.40,Publicidade,1,1,Centro-Oeste
+R00110,2026-10-07 09:00:00,TV001,Filmes,9.60,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,55.01,Telemetria sistema,2,0,Sul
+R00555,2026-09-16 03:00:00,TV055,Filmes,3.22,Ativo,TV,Silencio,,Sim,Desativado,25.33,Publicidade,2,0,Nordeste
+R00595,2026-09-05 07:50:00,TV001,Infantil,6.21,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,1,Sul
+R00397,2026-09-26 11:50:00,TV009,Esportes,8.96,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,9.10,Metadados de eventos,2,2,Sul
+R00102,2026-10-05 03:00:00,TV016,Filmes,8.06,Ativo,Soundbar,Silencio,,Sim,Ativado,23.01,ACR/conteudo,3,1,Sudeste
+R00169,2026-10-04 03:10:00,TV039,Esportes,5.11,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,3,2,Sudeste
+R00287,2026-09-18 14:00:00,TV019,Noticias,6.28,Ativo,TV,Outro,0.989,Sim,Desativado,33.79,Telemetria sistema,4,1,Sul
+R00562,2026-10-09 10:10:00,TV010,Esportes,1.23,Ativo,TV,Voz,0.697,Sim,Desativado,9.72,Telemetria sistema,3,0,Sudeste
+R00249,2026-09-05 19:50:00,TV009,Esportes,4.87,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,41.40,Telemetria sistema,1,0,Sul
+R00254,2026-10-07 10:00:00,TV041,Esportes,5.24,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,-26.49,Publicidade,1,0,Sudeste
+R00312,2026-09-16 03:00:00,TV038,Filmes,4.78,Ativo,TV,Latido,0.689,Sim,Desativado,15.31,Telemetria sistema,2,5,Nordeste
+R00705,2026-09-24 08:40:00,TV024,Esportes,7.59,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,12.92,Telemetria sistema,3,0,Nordeste
+R00173,2026-10-04 14:50:00,TV046,Musica,2.29,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,23.89,Publicidade,2,0,Sudeste
+R00719,2026-09-23 11:00:00,TV020,Infantil,,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,33.05,Publicidade,1,0,Sudeste
+R00643,2026-09-13 02:00:00,TV030,Filmes,8.63,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,16.19,Telemetria sistema,1,0,Nordeste
+R00793,2026-10-09 20:00:00,TV010,Infantil,5.15,Ativo,TV,Choro,0.861,Sim,Desativado,93.80,Telemetria sistema,1,1,Sudeste
+R00134,2026-09-15 02:30:00,TV046,Esportes,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,31.79,Publicidade,1,0,Sudeste
+R00401,2026-10-03 07:10:00,TV052,Series,3.65,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,31.99,Telemetria sistema,2,0,Sudeste
+R00564,2026-09-18 09:10:00,TV018,Filmes,,Ativo,TV,Outro,0.587,Nao,Ativado,31.81,Publicidade,0,0,Sudeste
+R00154,2026-09-21 16:20:00,TV051,Musica,9.58,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,66.57,Telemetria sistema,2,1,Centro-Oeste
+R00201,2026-09-12 12:40:00,TV035,Series,6.26,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,18.28,Metadados de eventos,2,2,Nordeste
+R00232,2026-09-02 23:10:00,TV018,Filmes,5.63,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,33.79,Telemetria sistema,1,0,Sudeste
+R00206,2026-09-30 14:20:00,TV050,Noticias,3.74,Ativo,TV,Ruido,0.788,Sim,Desativado,0.00,Sem envio observado,2,0,Norte
+R00184,2026-09-10 17:30:00,TV053,Esportes,8.16,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,2,1,Centro-Oeste
+R00404,2026-10-02 11:40:00,TV055,Filmes,4.67,Ativo,TV,Outro,0.905,Sim,Desativado,8.81,ACR/conteudo,0,0,Nordeste
+R00466,2026-10-05 01:10:00,TV025,Filmes,,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,16.81,Telemetria sistema,3,1,Centro-Oeste
+R00786,2026-09-03 04:40:00,TV053,Esportes,9.68,Ativo,Soundbar,Voz,0.966,Sim,Desativado,40.74,Publicidade,2,1,Centro-Oeste
+R00571,2026-09-16 04:30:00,TV005,Filmes,7.12,Ativo,TV,Choro,0.923,Sim,Desativado,14.32,Publicidade,4,3,Nordeste
+R00620,2026-10-05 22:00:00,TV042,Series,4.62,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,84.74,Telemetria sistema,1,2,Sudeste
+R00119,2026-09-17 21:00:00,TV035,Series,5.16,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,3,0,Nordeste
+R00217,2026-10-03 12:50:00,TV037,Esportes,7.97,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,105.95,ACR/conteudo,1,0,Sudeste
+R00339,2026-09-24 22:40:00,TV053,Jogos,1.92,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,71.02,Telemetria sistema,-2,0,Centro-Oeste
+R00323,2026-09-13 15:10:00,TV016,Filmes,5.78,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,19.03,Metadados de eventos,1,1,Sudeste
+R00337,2026-09-09 20:30:00,TV024,Esportes,6.95,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,27.99,Publicidade,2,0,Nordeste
+R00026,2026-09-14 09:30:00,TV015,Noticias,3.57,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,36.89,Metadados de eventos,1,1,Norte
+R00509,2026-09-04 07:40:00,TV016,Infantil,6.29,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,42.80,Telemetria sistema,2,0,Sudeste
+R00407,2026-09-21 05:30:00,TV049,Filmes,4.52,Ativo,TV,Ruido,0.862,Sim,Desativado,11.24,ACR/conteudo,4,2,Nordeste
+R00583,2026-09-26 19:10:00,TV047,Noticias,7.64,Ativo,TV,Voz,0.603,Sim,Desativado,13.81,Publicidade,1,0,Sudeste
+R00156,2026-09-25 05:30:00,TV006,Filmes,6.80,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,1,0,Nordeste
+R00179,2026-09-25 03:00:00,TV041,Esportes,6.56,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,20.48,ACR/conteudo,-2,0,Sudeste
+R00227,2026-09-09 03:20:00,TV030,Musica,9.90, Inativo ,TV,Outro,0.818,Sim,Ativado,6.89,ACR/conteudo,2,0,Nordeste
+R00870,2026-09-01 16:00:00,TV024,Infantil,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,2,0,Nordeste
+R00013,2026-09-10 00:50:00,TV018,Filmes,9.27,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,19.74,Publicidade,2,1,Sudeste
+R00348,2026-09-01 09:50:00,TV013,Noticias,6.60,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,3,0,Sul
+R00702,2026-09-14 11:40:00,TV050,Series,8.93,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,,Publicidade,1,0,Norte
+R00507,2026-09-06 17:30:00,TV001,Esportes,9.95,Ativo,TV,Latido,0.598,Sim,Desativado,31.80,ACR/conteudo,3,2,Sul
+R00419,2026-09-21 13:30:00,TV018,Esportes,5.45,Ativo,Dispositivo Bluetooth,Ruido,0.966,Nao,Ativado,67.48,ACR/conteudo,0,0,Sudeste
+R00012,2026-10-10 18:20:00,TV056,Filmes,8.76,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,21.74,Metadados de eventos,3,0,Centro-Oeste
+R00742,2026-09-28 09:40:00,TV023,Filmes,7.30,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,0,0,Nordeste
+R00461,2026-09-22 00:40:00,TV048,Filmes,,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,10.04,Publicidade,0,0,Sudeste
+R00470,2026-09-16 09:20:00,TV029,Infantil,2.69,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,,Publicidade,1,1,Sudeste
+R00546,2026-10-08 23:30:00,TV045,Series,6.50,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,30.77,Publicidade,1,0,Norte
+R00818,2026-09-21 12:50:00,TV036,Series,9.46,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,10.07,Publicidade,1,0,Nordeste
+R00879,2026-09-04 12:40:00,TV004,Filmes,10.00,Ativo,TV,Voz,0.905,Sim,Ativado,48.78,Telemetria sistema,4,0,Nordeste
+R00170,2026-10-08 10:10:00,TV054, FILMES ,3.33,Ativo,TV,Ruido,0.660,Sim,Desativado,73.93,Metadados de eventos,4,0,Centro-Oeste
+R00171,2026-09-06 17:30:00,TV030,Filmes,4.29,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,8.13,Telemetria sistema,2,0,Nordeste
+R00882,2026-09-23 13:30:00,TV057,Esportes,8.30,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,27.05,Telemetria sistema,3,0,Nordeste
+R00724,2026-09-24 00:40:00,TV003,Outros,4.78,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,165.21,ACR/conteudo,3,0,Sul
+R00753,2026-09-12 05:10:00,TV011,Filmes,6.28,Ativo,Dispositivo Bluetooth,Silencio,,Sim,Ativado,-42.93,Telemetria sistema,2,0,Nordeste
+R00342,2026-09-11 06:10:00,TV052,Esportes,9.51,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,15.31,Publicidade,2,0,Sudeste
+R00222,2026-09-06 06:10:00,TV020,Series,7.70,Ativo,TV,Ruido,0.948,Sim,Desativado,9.05,Metadados de eventos,2,1,Sudeste
+R00248,2026-09-11 02:20:00,TV049,Esportes,4.23,Ativo,TV,Silencio,,Sim,Desativado,53.01,ACR/conteudo,3,0,Nordeste
+R00647,2026-09-04 15:10:00,TV020,Series,5.00,Ativo,Soundbar,Silencio,,Sim,Desativado,0.00,Sem envio observado,1,0,Sudeste
+R00375,2026-09-29 02:20:00,TV030,Filmes,10.00,Ativo,TV,Silencio,,Sim,Ativado,13.83,Publicidade,0,0,Nordeste
+R00002,2026-09-12 19:50:00,TV029,Esportes,6.72,Ativo,Soundbar,Outro,0.570,Indeterminado,Desativado,6.63,Publicidade,0,0,Sudeste
+R00456,2026-09-03 22:20:00,TV012,Esportes,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,20.50,Publicidade,3,2,Norte
+R00614,2026-09-14 02:00:00,TV022,Filmes,6.19,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,21.62,Telemetria sistema,4,0,Nordeste
+R00561,2026-09-02 11:00:00,TV052,Jogos,5.69,Ativo,TV,Voz,0.900,Nao,Desativado,21.70,Telemetria sistema,3,0,Sudeste
+R00768,2026-10-04 15:30:00,TV031,Noticias,7.57,Ativo,TV,Outro,0.785,Sim,Desativado,34.72,ACR/conteudo,2,1,Centro-Oeste
+R00320,2026-09-03 01:30:00,TV058,Musica,8.35,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,13.05,ACR/conteudo,3,0,Sul
+R00491,2026-09-27 07:00:00,TV022,Filmes,6.21,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,40.94,Telemetria sistema,1,0,Nordeste
+R00549,2026-09-08 00:50:00,TV039,Filmes,2.98,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,17.08,Telemetria sistema,1,0,Sudeste
+R00398,2026-09-29 18:30:00,TV042,Series,8.33,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,39.39,Telemetria sistema,2,0,Sudeste
+R00458,2026-10-01 06:50:00,TV045,Filmes,10.00,Ativo,TV,Ruido,0.743,Sim,Desativado,0.00,Sem envio observado,2,0,Norte
+R00052,2026-10-09 12:20:00,TV018,Esportes,7.81,Ativo,TV,Ruido,0.927,Nao,Ativado,45.77,Telemetria sistema,1,1,Sudeste
+R00070,2026-09-17 02:00:00,TV047,Filmes,6.79,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,0.00,Sem envio observado,1,0,Sudeste
+R00683,2026-09-25 12:30:00,TV031,Noticias,6.53,Ativo,TV,Choro,0.794,Sim,Desativado,12.36,Publicidade,1,1,Centro-Oeste
+R00263,2026-09-22 18:00:00,TV007,Outros,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,18.78,Publicidade,2,0,Sudeste
+R00666,2026-09-19 16:10:00,TV010,Noticias,4.30,Ativo,TV,Voz,0.984,Sim,Desativado,22.10,ACR/conteudo,1,0,Sudeste
+R00004,2026-09-05 21:50:00,TV013,Series,10.00,Ativo,TV,Outro,0.571,Nao,Ativado,45.69,Metadados de eventos,1,0,Sul
+R00498,2026-09-26 02:00:00,TV033,ESPOrtes,6.45,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,11.65,Publicidade,0,0,Sul
+R00075,2026-10-03 22:30:00,TV053,Jogos,6.54,Ativo,Soundbar,Choro,0.643,Sim,Desativado,34.03,Publicidade,2,0,Centro-Oeste
+R00822,2026-09-30 10:40:00,TV010,Noticias,6.49,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,21.55,Telemetria sistema,3,0,Sudeste
+R00736,2026-10-02 01:10:00,TV036,Noticias,4.71,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,15.84,Publicidade,2,0,Nordeste
+R00218,2026-09-09 13:00:00,TV034,Musica,7.35,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,20.24,Publicidade,4,1,Nordeste
+R00836,2026-09-12 00:00:00,TV002,Noticias,6.19,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,10.99,ACR/conteudo,4,1,Sudeste
+R00123,2026-09-26 05:40:00,TV009,Musica,8.88,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,48.39,Publicidade,0,0,Sul
+R00288,2026-09-12 02:20:00,TV050,Outros,4.76,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,36.91,Metadados de eventos,2,1,Norte
+R00417,2026-09-23 03:50:00,TV002,Infantil,7.70,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,0.00,Sem envio observado,1,1,Sudeste
+R00090,2026-09-02 22:20:00,TV015,Esportes,5.34,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,24.63,Telemetria sistema,2,2,Norte
+R00234,2026-09-10 07:50:00,TV060,Musica,6.18,Inativo,Nao se aplica,Nao se aplica,,Indeterminado,Desativado,13.88,ACR/conteudo,0,0,Norte
+R00141,2026-09-13 12:40:00,TV056,Infantil,7.60,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,16.40,Telemetria sistema,1,0,Centro-Oeste
+R00537,2026-09-01 07:50:00,TV006,Series,5.64,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,28.70,Telemetria sistema,2,0,Nordeste
+R00751,2026-09-28 22:50:00,TV049,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,42.47,Publicidade,3,0,Nordeste
+R00730,2026-09-30 13:00:00,TV017,Musica,10.00,Ativo,Dispositivo Bluetooth,Latido,0.982,Sim,Ativado,173.54,Telemetria sistema,0,0,Sudeste
+R00017,2026-09-26 14:20:00,TV058,Noticias,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,24.16,Publicidade,4,1,Sul
+R00047,2026-09-04 19:30:00,TV028,Filmes,7.41,Ativo,Dispositivo Bluetooth,Voz,0.589,Sim,Desativado,29.02,Telemetria sistema,4,3,Sul
+R00022,2026-09-01 05:50:00,TV043,Series,5.37,Ativo,Soundbar,Silencio,,Sim,Desativado,10.73,Publicidade,2,0,Sudeste
+R00166,2026-09-13 03:30:00,TV031,Filmes,7.47,Ativo,TV,Voz,0.908,Sim,Desativado,24.58,Metadados de eventos,2,0,Centro-Oeste
+R00089,2026-09-23 16:10:00,TV019,Musica,6.02,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,39.37,Publicidade,2,1,Sul
+R00033,2026-09-03 18:10:00,TV045,Noticias,9.98,Ativo,TV,Ruido,0.618,Sim,Desativado,10.58,ACR/conteudo,0,0,Norte
+R00495,2026-10-07 02:00:00,TV054,Jogos,4.17,Ativo,TV,Silencio,,Sim,Desativado,35.00,Telemetria sistema,1,0,Centro-Oeste
+R00230,2026-09-23 23:30:00,TV001,Noticias,8.07,Ativo,TV,Voz,0.824,Sim,Desativado,34.22,Publicidade,3,0,Sul
+R00802,2026-09-29 08:20:00,TV004,Esportes,8.98,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,3,0,Nordeste
+R00865,2026-09-28 21:00:00,TV008,Noticias,3.62,Ativo,TV,Latido,0.763,Sim,Desativado,50.84,Metadados de eventos,2,0,Sudeste
+R00326,2026-09-20 00:20:00,TV046,Infantil,5.39,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,40.97,Telemetria sistema,2,0,Sudeste
+R00299,2026-09-01 16:00:00,TV059,Series,8.62,ativo,TV,Silencio,,Sim,Desativado,0.00,Sem envio observado,1,0,Nordeste
+R00211,2026-09-18 16:20:00,TV055,Filmes,6.14,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,11.00,ACR/conteudo,0,0,Nordeste
+R00848,2026-09-19 05:50:00,TV032,Filmes,6.85,Ativo,TV,Silencio,,Sim,Desativado,8.29,Telemetria sistema,2,0,Centro-Oeste
+R00548,2026-09-12 06:10:00,TV026,Infantil,6.65,Inativo,Nao se aplica,Nao se aplica,,Nao,Desativado,26.14,Telemetria sistema,2,2,Sudeste
+R00431,2026-10-09 23:30:00,TV019,Filmes,8.70,Ativo,Soundbar,Voz,0.920,Sim,Desativado,52.56,ACR/conteudo,-3,0,Sul
+R00158,2026-09-06 15:00:00,TV055,Filmes,3.80,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,11.67,Metadados de eventos,0,0,Nordeste
+R00038,2026-09-19 22:40:00,TV057,Esportes,9.39,Ativo,Dispositivo Bluetooth,Voz,0.591,Nao,Ativado,24.29,Publicidade,1,0,Nordeste
+R00315,2026-09-08 00:20:00,TV022,Filmes,8.95,Inativo,Nao se aplica,Nao se aplica,,,Ativado,18.77,Telemetria sistema,4,0,Nordeste
+R00353,2026-09-17 15:40:00,TV047,Musica,5.10,Ativo,Dispositivo Bluetooth,Silencio,,Sim,Desativado,1800.00,Publicidade,0,0,Sudeste
+R00221,2026-09-17 03:10:00,TV034,Series,,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,0.00,Sem envio observado,1,1,Nordeste
+R00681,2026-10-07 05:10:00,TV008,Series,3.11,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,14.03,Publicidade,1,0,Sudeste
+R00792,2026-09-11 23:50:00,TV034,Filmes,-1.57,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,23.56,Publicidade,1,0,Nordeste
+R00215,2026-09-20 14:00:00,TV010,Filmes,7.21,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,27.74,ACR/conteudo,2,1,Sudeste
+R00032,2026-10-02 13:40:00,TV001,Esportes,3.71,Inativo,Nao se aplica,Nao se aplica,,,Desativado,23.53,Publicidade,3,0,Sul
+R00592,2026-10-09 18:50:00,TV048,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,73.18,ACR/conteudo,1,0,Sudeste
+R00881,2026-10-06 20:50:00,TV059,Esportes,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,77.38,ACR/conteudo,3,0,Nordeste
+R00517,2026-09-22 04:50:00,TV060,Esportes,8.08,Ativo,TV,Silencio,,Indeterminado,Desativado,29.35,Telemetria sistema,2,0,Norte
+R00646,2026-09-04 21:20:00,TV024,Series,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,80.74,Publicidade,0,0,Nordeste
+R00752,2026-09-22 16:40:00,TV004,Infantil,87.24,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,15.04,Telemetria sistema,4,0,Nordeste
+R00298,2026-09-09 11:20:00,TV056,Musica,3.40,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,36.01,Telemetria sistema,1,0,Centro-Oeste
+R00252,2026-09-01 13:40:00,TV021,Esportes,2.79,Ativo,TV,Voz,0.761,Sim,Desativado,0.00,Sem envio observado,0,0,Sudeste
+R00122,2026-09-07 17:10:00,TV037,Filmes,5.84,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,9.55,Publicidade,2,0,Sudeste
+R00689,2026-09-21 19:10:00,TV034,Esportes,6.36,Inativo,Nao se aplica,Nao se aplica,,Sim,Ativado,39.54,Telemetria sistema,1,0,Nordeste
+R00051,2026-09-14 07:50:00,TV018,Filmes,10.00,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,29.75,ACR/conteudo,1,0,Sudeste
+R00418,2026-09-06 21:20:00,TV021,Series,6.57,Ativo,Soundbar,Silencio,,Sim,Desativado,15.42,Publicidade,2,0,Sudeste
+R00737,2026-09-03 03:50:00,TV032,Infantil,7.07,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,15.81,Metadados de eventos,1,0,Centro-Oeste
+R00019,2026-09-26 04:10:00,TV005,Filmes,10.00,Ativo,TV,Outro,0.918,Sim,Desativado,26.95,Metadados de eventos,0,0,Nordeste
+R00121,2026-09-10 05:00:00,TV035,Filmes,5.64,Inativo,Nao se aplica,Nao se aplica,,Nao,Ativado,32.15,Publicidade,2,0,Nordeste
+R00087,2026-09-22 14:30:00,TV031,Musica,10.00,Inativo,Nao se aplica,Nao se aplica,,Sim,Desativado,46.72,ACR/conteudo,2,1,Centro-Oeste
