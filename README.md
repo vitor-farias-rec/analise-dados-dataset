@@ -1,6 +1,6 @@
-# Atividade 1: tratamento e análise de solicitações de serviços públicos (KNIME)
+# Tratamento e análise de solicitações de serviços públicos (KNIME)
 
-Relatório da Atividade 1 (prática de Ciência de Dados) do curso **Ciência de Dados, Indicadores e Dashboards**, do Compet Superior, no contexto do projeto Agenda Saúde Digital Tacaratu.
+Relatório da prática de Ciência de Dados do curso **Ciência de Dados, Indicadores e Dashboards**, do Compet Superior, no contexto do projeto Agenda Saúde Digital Tacaratu.
 
 - **Autor:** Vitor Pontes de Farias
 - **Ferramenta:** KNIME Analytics Platform
